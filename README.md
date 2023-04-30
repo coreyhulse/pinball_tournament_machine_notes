@@ -1,5 +1,6 @@
 # pinball_td_notes
-# Pinball Tournament Director Machine Notes
+
+## Pinball Tournament Director Machine Notes
 
 ## About
 * The goal of this repository is to collect pinball machine settings information that would be ideal for tournament directors
