@@ -1,5 +1,3 @@
-## Machine Settings
-
 |Switch/Adj|Name|Setting|Notes|
 |-|-|-|-|
 |Self Test 16 and 17|Extra Balls|Both to 01|Turns off Extra Balls|

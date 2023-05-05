@@ -1,0 +1,5 @@
+The following was imported from the PAPA/ReplayFX Compeition Notes webpage at https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes
+
+##Concerns
+            
+Stars will be a fast-playing game timewise in competition (as is any game with a primarily open playfield that induces lateral movement). A quote from Brian Bannon comes to mind after he played Stars with no outlane or center posts during PAPA 14 Classics. “I love Stars. But that’s not Stars.” Brian could not have been more correct. Directors are encouraged to leave all posts in this game, and if anything, set them to make the game easier. Stars will never be a time concern under any circumstances. When cradling a ball, some players will pass the ball off of the center post by letting it roll off of the lowered flipper and nudging when the ball contacts the center post. This pass can be very convenient along the way to gathering stars and, if set properly by the director, will make Stars far more playable and raise scores. (show video of center post pass)
