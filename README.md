@@ -21,7 +21,7 @@ From https://opdb.org/about
 * Differences between machines regarding tournament conditions can be more easily noted and compared at the `Group` level
 
 ## Naming Conventions
-File names will consist of three parts in the following format: `machine_name_code_group.md`
+File names will consist of three parts in the following format: `machinename_code_group.md`
 |field|notes|
 |-|-|
 |`machinename`|Name of the machine.  No Underscores or spaces.|
