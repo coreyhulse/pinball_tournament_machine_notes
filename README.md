@@ -24,7 +24,7 @@ From https://opdb.org/about
 File names will consist of three parts in the following format: `machine_name_code_group.md`
 |field|notes|
 |-|-|
-|`machine_name`|Name of the machine.  Use underscores in place of spaces.|
+|`machinename`|Name of the machine.  No Underscores or spaces.|
 |`code`|Two-character code representing the type of file.<ul><li>`cs` - Competition Setup</li><li>`cn` - Competition Notes</li><li>`tg` - Tags to Add to OPDB</li></ul>|
 |`group`|OPDB Group|
 |`.md`|We are using the Markdown file type|
