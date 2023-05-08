@@ -5,18 +5,12 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   Often ball gets stuck up top, near top lanes, causing 1-ball multiball. Somehow fix that to reduce ball getting stuck there.
 ## Physical Setup
 -   Verify Machine Level Machine
-```{=html}
-<!-- -->
-```
+
 -   Outlane Posts on "Hard Settings". I.e. most open.
-```{=html}
-<!-- -->
-```
+
 -   Make slingshots sensitive
 -   Install Ear Plug Tilt Hack
-```{=html}
-<!-- -->
-```
+
 -   Verify Tilt Sensitivity -- should be sensitive, but only one danger with each hard bump
 -   Check coin door ball save.
 -   Check Flipper Strength (adjust #43 setting below if needed)

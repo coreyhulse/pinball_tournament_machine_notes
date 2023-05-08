@@ -3,18 +3,12 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 # Stern Guardians of the Galaxy
 ## Physical Setup
 -   Verify Machine Level Machine
-```{=html}
-<!-- -->
-```
+
 -   Outlane Posts on "Hard Settings". I.e. most open.
-```{=html}
-<!-- -->
-```
+
 -   Make slingshots sensitive
 -   Install Ear Plug Tilt Hack
-```{=html}
-<!-- -->
-```
+
 -   Verify Tilt Sensitivity -- should be sensitive, but only one danger with each hard bump
 -   Check coin door ball save.
 -   Check Flipper Strength (adjust #43 setting below if needed)
