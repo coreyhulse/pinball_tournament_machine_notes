@@ -3,19 +3,13 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 # Batman 66
 ## Physical Setup
 -   Verify Machine Level Machine. Increase steepness if possible.
-```{=html}
-<!-- -->
-```
+
 -   Outlane Posts on "Hard Settings". I.e. most open.
 -   Remove rubber on outlane posts
-```{=html}
-<!-- -->
-```
+
 -   Make slingshots extra sensitive
 -   Install Ear Plug Tilt Hack
-```{=html}
-<!-- -->
-```
+
 -   Verify Tilt Sensitivity -- should be quite sensitive, but still only one danger with each hard bump
 -   Check coin door ball save.
 -   Check Flipper Strength (adjust #43 setting below if needed)

@@ -1,6 +1,5 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-# Williams 4 Aces
 ## Physical Setup
 -   Level Machine, per factory recommendation
 -   Ear Plug Tilt Hack
@@ -8,8 +7,3 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   Check Flipper Strength, Consider Glo Balls if playing too slow or can't hit upper playfield
 -   Clean Playfield if necessary
 -   Clean Glass
-## Switch Setup: No Manual, look for jumpers in backbox.
--   5-Ball Play
--   Extra Balls -- points or credits, not Extra Ball
--   Hi Score if any: make as low as possible to auto-add credits
--   
