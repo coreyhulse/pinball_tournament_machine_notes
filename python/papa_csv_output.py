@@ -26,7 +26,8 @@ for row in csvreader:
 
         competition_setup = ''
 
-        competition_setup = competition_setup + '''The following was imported from the PAPA/ReplayFX Compeition Notes webpage at https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes
+        competition_setup = competition_setup + '''***
+The following was imported from the PAPA/ReplayFX Competition Notes webpage at https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes
 
 '''
 
@@ -47,7 +48,8 @@ for row in csvreader:
 
         competition_notes = ''
 
-        competition_notes = competition_notes + '''The following was imported from the PAPA/ReplayFX Compeition Notes webpage at https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes
+        competition_notes = competition_notes + '''***
+The following was imported from the PAPA/ReplayFX Competition Notes webpage at https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes
 
 '''
 

@@ -1,6 +1,5 @@
 import csv
 import re
-import pandoc
 import pypandoc
 
 
@@ -26,7 +25,16 @@ for row in csvreader:
 
     pypandoc.convert_file("docx/" + file_name, 'md', outputfile="machine_wa/" + opdb_name_clean + "_cn_" + opdb_id + ".md", extra_args=('--standalone','--wrap=none'))
     
-    print(opdb_name_clean + 'wa_pinball notes created')
+    print(opdb_name_clean + ' wa_pinball cn notes created')
+
+    competition_file = open('machine_wa/' + opdb_name_clean + '_cs_' + opdb_id + '.md', 'w')
+
+    competition_file.write('')
+
+    competition_file.close
+
+    print(opdb_name_clean + ' wa_pinball cs notes created')
+
 
 
 rows
