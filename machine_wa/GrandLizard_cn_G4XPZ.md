@@ -1,6 +1,5 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-# Grand Lizard
 ## Physical Setup
 -   Level Machine, slightly steeper than factory recommendation
 -   Outlane Posts on "Hard Settings". I.e. most open.
@@ -12,12 +11,3 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   Clean Playfield if necessary
 -   Clean Glass
 -   Verify Volume
-## Standard Adjustments
--   #55 Install 3 Ball
--   #64 Install Hard
--   #9 Balls per game: 3
--   #11 Max EB: 0
--   #23 Free Play
-## Posted Notes
--   TBD
--   
