@@ -1,6 +1,5 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-# Bally Nip It
 ## Physical Setup
 -   Level Machine, per factory recommendation
 -   Ear Plug Tilt Hack if it makes sense
@@ -9,6 +8,3 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   Verify balligator works as intended
 -   Clean Playfield if necessary
 -   Clean Glass
-## Hardware Setup
--   5-Ball Play.
-    ![](media/image1.png){width="1.59375in" height="2.4791666666666665in"}
