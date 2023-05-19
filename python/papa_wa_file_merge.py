@@ -6,7 +6,7 @@ import os
 file_paths = {}
 for root, dirs, files in os.walk('.'):
     for f in files:
-        if f.endswith('.txt'):
+        if f.endswith('.md'):
             if f not in file_paths:
                 file_paths[f] = []
             file_paths[f].append(root)
