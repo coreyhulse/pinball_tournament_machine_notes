@@ -1,10 +1,10 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Utilities Setup
+### Utilities Setup
 -   U9.03 Install Hard.
 -   U9.05 Install 3-Ball
 -   U9.10 Install Novelty. (No EB, Special is points)
-## Adjustments after Utilities Setup
+### Adjustments after Utilities Setup
 -   Verify A1-04 No Extra Balls
 -   A1.26 Tournament Play YES
 -   A1.33 Game Restart: Never
@@ -15,5 +15,5 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   A2-31 Buy-in Feature OFF
 -   A2-34 Outlane Ball Saver from Idol: NO
 -   A3-17: Free Play: YES
-## Posted Notes
+### Posted Notes
 -   No Ball Saver in Multiball or Center Drop Target-to-outlane combo.

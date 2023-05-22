@@ -1,9 +1,9 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Software Setup 
+### Software Setup 
 -   #7 Game Rules: EXHARD
 -   #8 25 cent play
-## Standard Adjustments 
+### Standard Adjustments 
 -   #6 Limit Extra Balls: 0
 -   #12 YES to see other adjustments
 -   #13 Expand Adjustments: YES
@@ -11,6 +11,6 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   #37 Coils Pulse: Hard (if necessary)
 -   #41 Game Restart: NO
 -   #47 Rerace Criteria: EXHARD
-## Posted Notes 
+### Posted Notes 
 -   Extra Hard Settings
 -   Play as Single Player Game

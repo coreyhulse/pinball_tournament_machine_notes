@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Physical Setup
+### Physical Setup
 -   Level Machine, normal steepness
 -   Remove Outlane Posts for "Hard Settings". I.e. most open.
 -   Ear Plug Tilt Hack

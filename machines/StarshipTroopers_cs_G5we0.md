@@ -1,8 +1,8 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Software Setup
+### Software Setup
 -   #7 Install HARD.
-## Standard Adjustments after Software Setup
+### Standard Adjustments after Software Setup
 -   #5 OFF -- No Extra Balls
 -   #12 3 Balls per game
 -   #28 YES Free Play

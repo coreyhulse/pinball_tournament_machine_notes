@@ -1,11 +1,11 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Install Menu
+### Install Menu
 -   Install 3-Ball
 -   Install Medium
 -   Install Competition.
 -   25 cent play
-## Standard Adjustments, verify or update AFTER "Install"
+### Standard Adjustments, verify or update AFTER "Install"
 -   #14 Special Award: POINTS.
 -   #16 Extra Ball Limit: NO EXTRA BALLS.
 -   #21 Balls per Game: 3
@@ -20,6 +20,6 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   #53 Consolation Ball: NO
 -   #63 Lost Ball Recovery: NO
 -   #64 Coin Door Disable Tilt: YES
-## Feature Adjustments
+### Feature Adjustments
 -   Reduce Multiball ball save times to 5 seconds
 -   Set MB Start to Hard for first MB (one lock lit at a time)

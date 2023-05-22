@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Software Setup Standard Adj
+### Software Setup Standard Adj
 -   Reset to Factory Default.
 -   3-Ball Play.
 -   Disable all Extra Balls #15
@@ -12,5 +12,5 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   Free Play #41
 -   Multiball ball saves: disable or set to minimum
 -   Regular ball save to 3 seconds #50
-## Software Setup Feature Adj
+### Software Setup Feature Adj
 -   Ace-in-hole Multiball Start: increase difficulty level by 1 (#8/9/10)

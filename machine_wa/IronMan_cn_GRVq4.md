@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Physical Setup
+### Physical Setup
 -   Verify Machine Level Machine
 -   Monger has sometimes had a flaky switch, check for proper operation
 -   Outlane Posts on "Hard Settings". I.e. most open.

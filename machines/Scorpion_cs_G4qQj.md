@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Switch or Software Setup
+### Switch or Software Setup
 -   3-Ball Play. (F30=03)
 -   Disable Extra Balls (F33=00)
 -   Special worth points (F27=02, F34=10)

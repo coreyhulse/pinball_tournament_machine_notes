@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Standard Adjustments, verify or update AFTER "Install"
+### Standard Adjustments, verify or update AFTER "Install"
 -   #12 Special Limit: NO SPECIALS.
 -   #16 Extra Ball Limit: NO EXTRA BALLS.
 -   #21 Balls per Game: 3
@@ -12,7 +12,7 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   #53 Consolation Ball: NO
 -   #57 Player Competition: NO
 -   #63 Lost Ball Recovery: NO
-## Feature Adjustments:
+### Feature Adjustments:
 -   Reduce Multiball ball save times to 5 seconds, if possible
 -   #5 Doc Ock Difficulty: HARD
 -   #15 Black Suit Multiball Difficulty: HARD
@@ -20,6 +20,6 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   #43 Disable Left Control Gate
 -   #44 Disable Right Control Gate
 -   #45 Disable Loop Diverter
-## Notes: 
+### Notes: 
 -   Upper Playfield Gate Diverters disabled.
 -   Doc Ock motor disabled -- shots on closed Doc Ock still score

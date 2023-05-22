@@ -1,10 +1,10 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Software Setup
+### Software Setup
 -   Reset to Factory Default.
 -   Tournament/Competition Mode
 -   Reset HSTD
-## Standard Adjustments:
+### Standard Adjustments:
 -   Special award: POINTS.
 -   Extra Ball Limit: NO EXTRA BALLS.
 -   Free Play: ON

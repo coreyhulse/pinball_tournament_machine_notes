@@ -1,11 +1,11 @@
 ***
 The following was imported from the PAPA/ReplayFX Competition Notes webpage at https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes
-## Concerns
+### Concerns
             
 Ramp lock will occasionally release two balls instead of one, giving the player an unfair advantage of two balls on the playfield during single ball play.
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Physical Setup
+### Physical Setup
 -   Level Machine, 1% steeper than factory recommendation
 -   Outlane posts to Hard (most open) setting.
 -   Make slingshots very sensitive

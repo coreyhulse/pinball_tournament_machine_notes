@@ -1,7 +1,7 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
 # Magic Castle
-## Physical Setup
+### Physical Setup
 -   Level Machine, per factory recommendation
 -   Outlane Posts on "Medium Settings".
 -   Ear Plug Tilt Hack

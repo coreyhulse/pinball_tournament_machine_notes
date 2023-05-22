@@ -1,10 +1,10 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Install Menu
+### Install Menu
 -   Install 3-Ball
 -   Install Competition.
 -   Install Hard
-## Standard Adjustments, verify or update AFTER "Install"
+### Standard Adjustments, verify or update AFTER "Install"
 -   #14 Special Award: POINTS.
 -   #16 Extra Ball Limit: NO EXTRA BALLS.
 -   #21 Balls per Game: 3
@@ -17,7 +17,7 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   #52 Competition Mode: YES
 -   #53 Consolation Ball: NO
 -   #63 Lost Ball Recovery: NO
-## Feature Adjustments:
+### Feature Adjustments:
 -   Review features if any need to be modified
 -   Verify MUSTANG letters don't carry over
 -   #31 Reduce Mustang multiball ball save time to minimum

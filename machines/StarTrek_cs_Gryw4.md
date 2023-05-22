@@ -1,10 +1,10 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Install Menu
+### Install Menu
 -   Install 3-Ball
 -   Install Competition.
 -   Install Hard
-## Standard Adjustments, verify or update AFTER "Install"
+### Standard Adjustments, verify or update AFTER "Install"
 -   #12 Special Limit: NO SPECIALS.
 -   #16 Extra Ball Limit: NO EXTRA BALLS.
 -   #21 Balls per Game: 3
@@ -18,8 +18,8 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   #53 Consolation Ball: NO
 -   #57 Player Competition: YES
 -   #63 Lost Ball Recovery: NO
-## Feature Adjustments
+### Feature Adjustments
 -   Reduce Multiball ball save times to minimum, if available
 -   Left kickback on extra-hard settings if possible. If not possible, disable kickback by either disconnecting switch or solenoid (if not too difficult).
-## Posted Notes
+### Posted Notes
 -   Add note regarding left kickback setting

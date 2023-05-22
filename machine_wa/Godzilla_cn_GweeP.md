@@ -1,7 +1,7 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
 (This is the Sega version of GodZilla))
-## Physical Setup
+### Physical Setup
 -   Level Machine, 1% steeper than factory recommendation
 -   Outlane Posts on "Hard Settings". I.e. most open.
 -   Ear Plug Tilt Hack

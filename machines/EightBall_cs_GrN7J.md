@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Switch or Software Setup
+### Switch or Software Setup
 -   5-Ball Play (S16 ON)
 -   Disable EB, Hard Settings (S24 OFF, S23 OFF, S31 OFF, S22 OFF, S30 OFF )
 -   Max 40 Credits

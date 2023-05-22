@@ -55,13 +55,13 @@ The following was imported from the PAPA/ReplayFX Competition Notes webpage at h
 
         if str(tech_notes) != '':
         
-            competition_notes = competition_notes + '''## Tech Notes
+            competition_notes = competition_notes + '''### Tech Notes
             
 ''' + tech_notes
 
         if str(concerns) != '':
         
-            competition_notes = competition_notes + '''## Concerns
+            competition_notes = competition_notes + '''### Concerns
             
 ''' + concerns
         

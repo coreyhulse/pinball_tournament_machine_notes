@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Physical Setup
+### Physical Setup
 -   Level Machine, slightly steeper than factory recommendation
 -   Outlane Posts on "Hard Settings". I.e. most open.
 -   If possible, place a larger rubber on post adjacent to multiball lock shot.

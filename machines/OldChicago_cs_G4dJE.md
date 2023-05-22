@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Switch Setup
+### Switch Setup
 -   5-Ball Play
 -   Extra Balls -- disable if possible (drop target Adjustment Plug)
 -   Hi Score Adjustment Plug: make it lowest score possible, to replenish credits

@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Switch Setup
+### Switch Setup
 -   #1-5, #9-13 Free Play if possible. Otherwise, set to Max Credits for Minimum Coins
 -   #6 OFF Multipliers Reset
 -   #7 OFF Only 20-40-60 held
@@ -14,5 +14,5 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   #24 OFF Target must be qualified on each ball
 -   #25,#26 ON ON, Max 40 credits
 -   #31, #32 OFF OFF, 3 Balls per game
-## Front Door Game Adjustments
+### Front Door Game Adjustments
 -   Self-Test Position 16: Set to 03 for Replay on Everything

@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Physical Setup
+### Physical Setup
 -   Level Machine, 1% steeper than factory recommendation
 -   Outlane posts to Hard (most open) setting.
 -   Make slingshots very sensitive

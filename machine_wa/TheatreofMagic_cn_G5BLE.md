@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Physical Setup
+### Physical Setup
 -   Verify Machine Level Machine
 -   Install Soren's Theater-of-magic special competition ROMS\
     http://tiltforums.com/t/new-theatre-of-magic-software-mod-version-2/4717

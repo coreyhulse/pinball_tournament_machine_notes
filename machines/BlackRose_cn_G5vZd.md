@@ -1,11 +1,11 @@
 ***
 The following was imported from the PAPA/ReplayFX Competition Notes webpage at https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes
-## Concerns
+### Concerns
             
 Highly repetitive scoring strategies lessen this game's appeal for Expert Divisions.
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Physical Setup
+### Physical Setup
 -   Level Machine -- about 1% steeper than factory recommendation
 -   Outlane Posts on "Hard Settings". I.e. most open.
 -   Adjust slingshots to be extra sensitive

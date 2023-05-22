@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Switch or Software Setup
+### Switch or Software Setup
 -   5-Ball Play. If it plays too easy, consider 3-ball play
 -   Disable Extra Balls
 -   Specials worth points instead of credits

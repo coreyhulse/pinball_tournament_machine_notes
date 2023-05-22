@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Standard Adjustments
+### Standard Adjustments
 -   Reset to Factory Default.
 -   #14 Special award: POINTS.
 -   #16 Extra Ball Limit: NO EXTRA BALLS. Check if this makes them points. If not adjust for points

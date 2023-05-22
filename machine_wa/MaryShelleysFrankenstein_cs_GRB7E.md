@@ -1,8 +1,8 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Software Setup
+### Software Setup
 -   #7 Install HARD.
-## Standard Adjustments after Software Setup
+### Standard Adjustments after Software Setup
 -   #5 Limit Freegame 0
 -   #6 Limit Extra Balls 0
 -   #14 Balls Per Game 3
@@ -16,5 +16,5 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   #50 Multiball Restart: HARD
 -   #53 Multiball Difficulty: HARD
 -   #56 Easy 2-Ball Start: NO
-## Posted Notes
+### Posted Notes
 -   Kickback is UNLIT at start of each ball.

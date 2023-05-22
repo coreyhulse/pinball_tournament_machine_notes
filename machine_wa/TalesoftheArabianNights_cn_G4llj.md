@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Physical Setup
+### Physical Setup
 -   Verify Machine Level Machine
 -   Outlane Posts on "Hard Settings". I.e. most open.
 -   Make slingshots sensitive
