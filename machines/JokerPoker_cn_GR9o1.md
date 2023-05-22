@@ -3,7 +3,7 @@ The following was imported from the PAPA/ReplayFX Competition Notes webpage at h
 ## Tech Notes
             
 Changing specials to award extra balls is an option. If you do this, though, replays will also award extra balls, extending play at specific scores. Therefore, you may not want to set specials to award extra balls.## Concerns
-The extra ball target must be physically disabled to remove this feature. Based on Joker Poker�s difficulty and its skill-based extra ball, consider leaving extra balls on for competition play.
+The extra ball target must be physically disabled to remove this feature. Based on Joker Poker's difficulty and its skill-based extra ball, consider leaving extra balls on for competition play.
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
 # Gottlieb Joker Poker
