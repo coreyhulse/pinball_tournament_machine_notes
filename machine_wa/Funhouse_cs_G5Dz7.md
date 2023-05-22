@@ -1,9 +1,9 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Software Setup
+### Software Setup
 -   Reset to Factory Default.
 -   Tournament/Competition Mode
-## Standard Adjustments:
+### Standard Adjustments:
 -   3 Ball (A.1-01)
 -   Extra Ball Limit: NO EXTRA BALLS. (A1.03)
 -   Special award: POINTS. (A.1-15)

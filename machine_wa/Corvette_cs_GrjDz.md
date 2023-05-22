@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Software Setup
+### Software Setup
 Start with UTILS Menu, U.8 Factory Reset
 -   U.9 Install Medium.
 -   U.9-10 Install Novelty

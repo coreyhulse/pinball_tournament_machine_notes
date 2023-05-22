@@ -1,7 +1,7 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
 # Scared Stiff
-## Physical Setup
+### Physical Setup
 -   Level Machine slightly steeper than factory recommendation
 -   Outlane Posts on "Hard Settings". I.e. most open.
 -   Remove rubber on movable outlane posts, but keep on post between inlane/outlane

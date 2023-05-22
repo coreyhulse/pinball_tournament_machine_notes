@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Hardware Setup
+### Hardware Setup
 -   SW#31 -- Off, 3-Ball Play.
 -   SW#24 -- Off, Center rollover scores captive ball value, does not increase
 -   SW#23 -- Off, Red Invader not stored in memory

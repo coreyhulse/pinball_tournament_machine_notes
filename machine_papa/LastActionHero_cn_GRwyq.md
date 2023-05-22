@@ -1,8 +1,8 @@
 ***
 The following was imported from the PAPA/ReplayFX Competition Notes webpage at https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes
 
-## Tech Notes
+### Tech Notes
             
-Adjustment 41 set to OFF disables the shaker motor.## Concerns
+Adjustment 41 set to OFF disables the shaker motor.### Concerns
             
 Disable the smart missile in competitive play.

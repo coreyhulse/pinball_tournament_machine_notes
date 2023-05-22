@@ -1,11 +1,11 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Software Setup
+### Software Setup
 -   U8 Reset to Factory Default.
 -   U9.08 Install 3-ball
 -   U9.10 Install Novelty.
 -   A3-17: Free Play: ON
-## Standard Adjustments:
+### Standard Adjustments:
 -   A1-02: 2 tilt warnings
 -   A1-03, A1-04 No Extra Balls
 -   A1.33 Game Restart: Never
@@ -14,5 +14,5 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   No buy-in
 -   Disable coin door switch if necessary.
 -   A1.26 Tournament Mode
-## Feature Adjustments:
+### Feature Adjustments:
 -   A2.32 Disable Draw Bridge

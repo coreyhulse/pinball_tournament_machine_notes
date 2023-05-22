@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Software Setup
+### Software Setup
 -   Reset to Factory Default.
 -   Tournament/Competition Mode
 -   Reset HSTD

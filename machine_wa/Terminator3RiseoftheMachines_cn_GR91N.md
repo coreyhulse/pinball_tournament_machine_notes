@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Physical Setup
+### Physical Setup
 -   Level Machine: 1% steeper than factory recommended
 -   Outlane Posts on "Hard Settings". I.e. fully open position
 -   Remove rubber from movable outlane post, keep it on post between inlane/outlane

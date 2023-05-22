@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Physical Setup
+### Physical Setup
 -   Outlane posts to Hard (most open) setting. Remove rubber on right-side post.
 -   Level Machine
 -   Make slingshots very sensitive

@@ -1,6 +1,6 @@
 ***
 The following was imported from the PAPA/ReplayFX Competition Notes webpage at https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes
 
-## Concerns
+### Concerns
             
-Skill shot awards include “Double Your Score” and “Steal His Score”. If played, ideally this game should be single-player only.
+Skill shot awards include ï¿½Double Your Scoreï¿½ and ï¿½Steal His Scoreï¿½. If played, ideally this game should be single-player only.

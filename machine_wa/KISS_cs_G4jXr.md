@@ -1,9 +1,9 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Software Setup
+### Software Setup
 -   Reset to Factory Default.
 -   Tournament/Competition Mode
-## Standard Adjustments:
+### Standard Adjustments:
 -   #14 Special Award: POINTS.
 -   #16 Extra Ball Limit: NO EXTRA BALLS.
 -   #21 Balls per Game: 3
@@ -18,7 +18,7 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   #53 Consolation Ball: NO
 -   #57 Player Competition: NO
 -   #63 Lost Ball Recovery: NO
-## Feature Adjustments:
+### Feature Adjustments:
 -   Reduce Multiball ball save times to minimum
 -   Virtual Demon Locks
 -   Love Gun Multiball difficulty to Hard

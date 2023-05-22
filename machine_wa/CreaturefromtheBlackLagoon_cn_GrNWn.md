@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Physical Setup
+### Physical Setup
 -   Level Machine: factory recommended steepness
 -   Outlane Posts on "Medium Settings". I.e. MIDDLE position
 -   Ear Plug Tilt Hack
