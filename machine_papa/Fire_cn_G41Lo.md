@@ -3,6 +3,8 @@ The following was imported from the PAPA/ReplayFX Competition Notes webpage at h
 
 ### Tech Notes
             
-Ensure the flippers are strong enough to easily make all ramp shots, including the center ramp, prior to the tournament beginning.### Concerns
+Ensure the flippers are strong enough to easily make all ramp shots, including the center ramp, prior to the tournament beginning.
+
+### Concerns
             
 Fire! contains lock stealing between players.

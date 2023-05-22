@@ -3,6 +3,8 @@ The following was imported from the PAPA/ReplayFX Competition Notes webpage at h
 
 ### Tech Notes
             
-Flippers from this era of pinball machines can become weak with extended play. Ensure the flipper mechanisms are moving freely, and upgrade the coils if possible.### Concerns
+Flippers from this era of pinball machines can become weak with extended play. Ensure the flipper mechanisms are moving freely, and upgrade the coils if possible.
+
+### Concerns
             
 It's Shag-a-delic!
