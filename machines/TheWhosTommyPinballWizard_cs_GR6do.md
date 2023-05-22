@@ -1,8 +1,8 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Software Setup 
+### Software Setup 
 -   #7 FACTORY Game Rules (Restore Factory Defaults)
-## Standard Adjustments
+### Standard Adjustments
 -   #6 OFF -- No Extra Balls
 -   #12 YES to see other adjustments
 -   #14 3 Balls per game

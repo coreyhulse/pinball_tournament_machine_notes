@@ -1,9 +1,9 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Software Setup
+### Software Setup
 -   Reset to Factory Default.
 -   Tournament/Competition Mode
-## Standard Adjustments if available:
+### Standard Adjustments if available:
 -   Special award: POINTS.
 -   Extra Ball Limit: NO EXTRA BALLS.
 -   Free Play: ON
@@ -12,5 +12,5 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   Coin Door Ball Saver: YES
 -   Player Competition: YES
 -   Lost Ball Recovery: NO
-## Feature Adjustments:
+### Feature Adjustments:
 -   Each MB Ball Save Timer, as short as possible

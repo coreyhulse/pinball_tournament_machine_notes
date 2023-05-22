@@ -1,10 +1,10 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Install Menu (in order)
+### Install Menu (in order)
 -   Install Hard
 -   Install Free Play Competition.
 -   Install Novelty
-## Standard Adjustments, verify or update AFTER "Install Menu"
+### Standard Adjustments, verify or update AFTER "Install Menu"
 -   #06 Special Limit: POINTS.
 -   #09 Extra Ball Limit: NO EXTRA BALLS.
 -   #14 Balls per Game: 3
@@ -24,5 +24,5 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   #09 Disable RPG: YES.
 -   #11 Adult Content: NO.
 -   Disable/Reduce Multiball Ball Saver if possible.
-## Posted Notes:
+### Posted Notes:
 -   RPG Disabled -- 5M Points.

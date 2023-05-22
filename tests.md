@@ -43,7 +43,7 @@ Paragraphs
     ), Str(u'another'), Space(), Str(u'paragraph')])])
 
 
-#### Extension: `escaped_line_breaks`
+###### Extension: `escaped_line_breaks`
 
     >>> r"""
     ... a paragraph\
@@ -57,7 +57,7 @@ Paragraphs
 Headers
 --------------------------------------------------------------------------------
 
-### Setext-style headers
+#### Setext-style headers
 
     >>> """
     ... A level-one header
@@ -72,12 +72,12 @@ Headers
     two-header', [], []), [Str(u'A'), Space(), Str(u'level-two'), Space(), Str(u
     'header')])])
 
-### ATX-style headers
+#### ATX-style headers
 
     >>> """
-    ... ## A level-two header
+    ... ### A level-two header
     ... 
-    ... ### A level-three header ###
+    ... #### A level-three header ####
     ... """
     ... # doctest: +PANDOC
     Pandoc(Meta(map()), [Header(2, (u'a-level-two-header', [], []), [Str(u'A'), 
@@ -93,7 +93,7 @@ Headers
     tr(u'link')], (u'/url', u'')), Space(), Str(u'and'), Space(), Emph([Str(u'em
     phasis')])])])
 
-#### Extension: `blank_before_header`
+###### Extension: `blank_before_header`
 
     >>> """
     ... I like several of their flavors of ice cream:
@@ -110,12 +110,12 @@ Headers
 Header identifiers
 --------------------------------------------------------------------------------
 
-#### Extension: `header_attributes`
+###### Extension: `header_attributes`
 
     >>> """
     ... # My header {#foo}
     ... 
-    ... ## My header ##    {#foo}
+    ... ### My header ###    {#foo}
     ... 
     ... My other header   {#foo}
     ... ---------------
@@ -134,11 +134,11 @@ Header identifiers
     Pandoc(Meta(map()), [Header(1, (u'my-header', [u'unnumbered'], []), [Str(u'M
     y'), Space(), Str(u'header')])])
 
-#### Extension: `auto_identifiers`
+###### Extension: `auto_identifiers`
 
 This extension does not work for the JSON output format.
 
-#### Extension: `implicit_header_references`
+###### Extension: `implicit_header_references`
 
     >>> """
     ... # Header Identifiers
@@ -223,7 +223,7 @@ Block quotations
     >>> ">     code" # doctest: +PANDOC
     Pandoc(Meta(map()), [BlockQuote([CodeBlock((u'', [], []), u'code')])])
 
-#### Extension: `blank_before_blockquote`
+###### Extension: `blank_before_blockquote`
 
     >>> """
     ... > This is a block quote.
@@ -238,7 +238,7 @@ Block quotations
 Verbatim (code) blocks
 --------------------------------------------------------------------------------
 
-### Indented code blocks
+#### Indented code blocks
 
     >>> """
     ...     if (a > 3) {
@@ -249,9 +249,9 @@ Verbatim (code) blocks
     Pandoc(Meta(map()), [CodeBlock((u'', [], []), u'if (a > 3) {\nmoveShip(5 * g
     ravity, DOWN);\n}')])
 
-### Fenced code blocks
+#### Fenced code blocks
 
-#### Extension: `fenced_code_blocks`
+###### Extension: `fenced_code_blocks`
 
     >>> """
     ... ~~~~~~~
@@ -275,7 +275,7 @@ Verbatim (code) blocks
     Pandoc(Meta(map()), [CodeBlock((u'', [], []), u'~~~~~~~~~~\ncode including t
     ildes\n~~~~~~~~~~')])
 
-#### Extension: `backtick_code_blocks`
+###### Extension: `backtick_code_blocks`
 
     >>> """
     ... ```````
@@ -288,7 +288,7 @@ Verbatim (code) blocks
     Pandoc(Meta(map()), [CodeBlock((u'', [], []), u'if (a > 3) {\nmoveShip(5 * g
     ravity, DOWN);\n}')])
 
-#### Extension: `fenced_code_attributes`
+###### Extension: `fenced_code_attributes`
 
     >>> """
     ... ~~~~ {#mycode .haskell .numberLines startFrom="100"}
@@ -323,7 +323,7 @@ Verbatim (code) blocks
 Line blocks
 --------------------------------------------------------------------------------
 
-#### Extension: `line_blocks`
+###### Extension: `line_blocks`
 
     >>> """
     ... | The limerick packs laughs anatomical
@@ -371,7 +371,7 @@ Line blocks
 Lists
 --------------------------------------------------------------------------------
 
-### Bullet lists
+#### Bullet lists
 
     >>> """
     ... * one
@@ -491,7 +491,7 @@ Lists
     Pandoc(Meta(map()), [OrderedList((5, Decimal(), Period()), [[Plain([Str(u'on
     e')])], [Plain([Str(u'two')])], [Plain([Str(u'three')])]])])
 
-#### Extension: `fancy_lists`
+###### Extension: `fancy_lists`
 
     >>> """
     ... #. one
@@ -501,7 +501,7 @@ Lists
     Pandoc(Meta(map()), [OrderedList((1, DefaultStyle(), DefaultDelim()), [[Plai
     n([Str(u'one')])], [Plain([Str(u'two')])]])])
 
-#### Extension: `start_num`
+###### Extension: `start_num`
 
     >>> """
     ...  9)  Ninth
@@ -528,9 +528,9 @@ Lists
     'Two')])], [Plain([Str(u'Three')])]]), OrderedList((1, Decimal(), Period()),
      [[Plain([Str(u'Four')])]]), BulletList([[Plain([Str(u'Five')])]])])
 
-### Definition Lists
+#### Definition Lists
 
-#### Extension: `definition_lists`
+###### Extension: `definition_lists`
 
     >>> """
     ... Term 1
@@ -584,9 +584,9 @@ Lists
      Str(u'2')], [[Plain([Str(u'Definition'), Space(), Str(u'2a')])], [Plain([St
     r(u'Definition'), Space(), Str(u'2b')])]])])])
 
-### Numbered Example List
+#### Numbered Example List
 
-#### Extension: `example_lists`
+###### Extension: `example_lists`
 
     >>> """
     ... (@)  My first example will be numbered (1).
@@ -619,7 +619,7 @@ Lists
     ce(), Str(u'example.')])]]), Para([Str(u'As'), Space(), Str(u'(1)'), Space()
     , Str(u'illustrates,'), Space(), Str(u'...')])])
 
-### Compact and loose lists
+#### Compact and loose lists
 
     >>> """
     ... +   First
@@ -635,7 +635,7 @@ Lists
     ond:')]), BulletList([[Plain([Str(u'Fee')])], [Plain([Str(u'Fie')])], [Plain
     ([Str(u'Foe')])]])], [Plain([Str(u'Third')])]])])
 
-### Ending a List
+#### Ending a List
 
     >>> """
     ... -   item one
@@ -696,9 +696,9 @@ Horizontal Rules
 Tables
 --------------------------------------------------------------------------------
 
-#### Extension `table_captions`
+###### Extension `table_captions`
 
-#### Extension `simple_tables`
+###### Extension `simple_tables`
 
     >>> """
     ...   Right     Left     Center     Default
@@ -735,7 +735,7 @@ Tables
     [Str(u'123')])]], [[Plain([Str(u'1')])], [Plain([Str(u'1')])], [Plain([Str(u
     '1')])], [Plain([Str(u'1')])]]])])
 
-#### Extension `multiline_tables`
+###### Extension `multiline_tables`
 
     >>> """
     ... -------------------------------------------------------------
@@ -797,7 +797,7 @@ Tables
     r(u'Note'), SoftBreak(), Str(u'the'), Space(), Str(u'blank'), Space(), Str(u
     'line'), Space(), Str(u'between'), SoftBreak(), Str(u'rows.')])]]])])
 
-#### Extension: grid_tables
+###### Extension: grid_tables
 
     ... +---------------+---------------+--------------------+
     ... | Fruit         | Price         | Advantages         |
@@ -811,7 +811,7 @@ Tables
     ... """
     ... # doctest: +PANDOC
 
-#### Extension: pipe_tables
+###### Extension: pipe_tables
 
     >>> """
     ... | Right | Left | Default | Center |
@@ -861,7 +861,7 @@ Tables
 Metadata blocks
 --------------------------------------------------------------------------------
 
-#### Extension: `pandoc_title_block`
+###### Extension: `pandoc_title_block`
 
     >>> """\
     ... % title
@@ -904,7 +904,7 @@ Metadata blocks
 Pandoc does not conform to its documentation when title blocks use multiple 
 lines with leading space. The corresponding examples have been removed.
 
-#### Extension: `yaml_metadata_block`
+###### Extension: `yaml_metadata_block`
 
 The order of key-value pairs in maps are the same than in the json
 representation, but this initial order is not specified by pandoc. 
@@ -944,7 +944,7 @@ Hence, the following test is too strict and may fail.
 Backslash escapes
 --------------------------------------------------------------------------------
 
-#### Extension: `all_symbols_escapable`
+###### Extension: `all_symbols_escapable`
 
     >>> """
     ... *\*hello\**
@@ -956,7 +956,7 @@ Backslash escapes
 Smart punctuation
 --------------------------------------------------------------------------------
 
-#### Extension
+###### Extension
 
 Not tested, disabled by default.
 
@@ -964,7 +964,7 @@ Not tested, disabled by default.
 Inline Formatting
 --------------------------------------------------------------------------------
 
-### Emphasis
+#### Emphasis
 
     >>> """
     ... This text is _emphasized with underscores_, and this
@@ -994,24 +994,24 @@ Inline Formatting
     , Space(), Str(u'and'), Space(), Str(u'*neither'), Space(), Str(u'is'), Spac
     e(), Str(u'this*.')])])
 
-#### Extension: `intraword_underscores`
+###### Extension: `intraword_underscores`
 
     >>> "feas*ible*, not feas*able*." # doctest: +PANDOC
     Pandoc(Meta(map()), [Para([Str(u'feas'), Emph([Str(u'ible')]), Str(u','), Sp
     ace(), Str(u'not'), Space(), Str(u'feas'), Emph([Str(u'able')]), Str(u'.')])
     ])
 
-### Strikeout
+#### Strikeout
 
-#### Extension: `strikeout`
+###### Extension: `strikeout`
 
     >>> "This ~~is deleted text.~~" # doctest: +PANDOC
     Pandoc(Meta(map()), [Para([Str(u'This'), Space(), Strikeout([Str(u'is'), Spa
     ce(), Str(u'deleted'), Space(), Str(u'text.')])])])
 
-### Superscripts and Subscripts
+#### Superscripts and Subscripts
 
-#### Extension: `superscript`, `subscript`
+###### Extension: `superscript`, `subscript`
 
     >>> "H~2~O is a liquid.  2^10^ is 1024." # doctest: +PANDOC
     Pandoc(Meta(map()), [Para([Str(u'H'), Subscript([Str(u'2')]), Str(u'O'), Spa
@@ -1019,7 +1019,7 @@ Inline Formatting
     (u'2'), Superscript([Str(u'10')]), Space(), Str(u'is'), Space(), Str(u'1024.
     ')])])
 
-### Verbatim
+#### Verbatim
 
     >>> "What is the difference between `>>=` and `>>`?" # doctest: +PANDOC
     Pandoc(Meta(map()), [Para([Str(u'What'), Space(), Str(u'is'), Space(), Str(u
@@ -1041,12 +1041,12 @@ Inline Formatting
     >>> "`<$>`{.haskell}" # doctest: +PANDOC
     Pandoc(Meta(map()), [Para([Code((u'', [u'haskell'], []), u'<$>')])])
 
-#### Extension: `inline_code_attributes`
+###### Extension: `inline_code_attributes`
 
     >>> "`<$>`{.haskell}" # doctest: +PANDOC
     Pandoc(Meta(map()), [Para([Code((u'', [u'haskell'], []), u'<$>')])])
 
-### Small Caps
+#### Small Caps
 
     >>> "<span style='font-variant:small-caps;'>Small caps</span>"
     ... # doctest: +PANDOC
@@ -1057,7 +1057,7 @@ Inline Formatting
 Math
 --------------------------------------------------------------------------------
 
-#### Extension: `tex_math_dollars`
+###### Extension: `tex_math_dollars`
 
     >>> "$a=1$" # doctest: +PANDOC
     Pandoc(Meta(map()), [Para([Math(InlineMath(), u'a=1')])])
@@ -1069,13 +1069,13 @@ Math
 Raw HTML
 --------------------------------------------------------------------------------
 
-#### Extension: `raw_html`
+###### Extension: `raw_html`
 
     >>> "<html></html>" # doctest: +PANDOC
     Pandoc(Meta(map()), [RawBlock(Format(u'html'), u'<html>'), RawBlock(Format(u
     'html'), u'</html>')])
 
-#### Extension: `markdown_in_html_blocks`
+###### Extension: `markdown_in_html_blocks`
 
     >>> """
     ... <table>
@@ -1093,12 +1093,12 @@ Raw HTML
     p://google.com', u''))]), RawBlock(Format(u'html'), u'</td>'), RawBlock(Form
     at(u'html'), u'</tr>'), RawBlock(Format(u'html'), u'</table>')])
 
-#### Extension: `native_divs`
+###### Extension: `native_divs`
 
     >>> "<div></div>" # doctest: +PANDOC
     Pandoc(Meta(map()), [Div((u'', [], []), [])])
 
-#### Extension: `native_spans`
+###### Extension: `native_spans`
 
     >>> "<span></span>" # doctest: +PANDOC
     Pandoc(Meta(map()), [Para([Span((u'', [], []), [])])])
@@ -1107,7 +1107,7 @@ Raw HTML
 Raw TeX
 --------------------------------------------------------------------------------
 
-#### Extension: `raw_tex`
+###### Extension: `raw_tex`
 
     >>> "This result was proved in \cite{jones.1967}."
     ... # doctest: +PANDOC
@@ -1131,7 +1131,7 @@ Raw TeX
 LaTeX macros
 --------------------------------------------------------------------------------
 
-#### Extension: `latex_macros`
+###### Extension: `latex_macros`
 
     >>> r"""
     ... \newcommand{\tuple}[1]{\langle #1 \rangle}
@@ -1146,7 +1146,7 @@ LaTeX macros
 Links
 --------------------------------------------------------------------------------
 
-### Automatic Links
+#### Automatic Links
 
     >>> "<http://google.com>" # doctest: +PANDOC
     Pandoc(Meta(map()), [Para([Link((u'', [], []), [Str(u'http://google.com')], 
@@ -1156,7 +1156,7 @@ Links
     Pandoc(Meta(map()), [Para([Link((u'', [], []), [Str(u'sam@green.eggs.ham')],
      (u'mailto:sam@green.eggs.ham', u''))])])
 
-### Inline links
+#### Inline links
 
     >>> """
     ... This is an [inline link](/url), and here's [one with
@@ -1176,7 +1176,7 @@ Links
     u'me!')], (u'mailto:sam@green.eggs.ham', u''))])])
 
 
-### Reference links
+#### Reference links
 
     >>> """
     ... [my label 1], [my label 2], [my label 3], [my label 4]. 
@@ -1244,7 +1244,7 @@ Links
     pace(), Link((u'', [], []), [Str(u'quote')], (u'/foo', u'')), Str(u'.')])])]
     )
 
-#### Extension: `shortcut_reference_links`
+###### Extension: `shortcut_reference_links`
 
     >>> """
     ... See [my website].
@@ -1256,7 +1256,7 @@ Links
     my'), Space(), Str(u'website')], (u'http://foo.bar.baz', u'')), Str(u'.')])]
     )
 
-### Internal links
+#### Internal links
 
     >>> "See the [Introduction](#introduction)." # doctest: +PANDOC
     Pandoc(Meta(map()), [Para([Str(u'See'), Space(), Str(u'the'), Space(), Link(
@@ -1294,7 +1294,7 @@ Images
     Pandoc(Meta(map()), [Para([Image((u'', [], []), [Str(u'movie'), Space(), Str
     (u'reel')], (u'movie.gif', u'fig:'))])])
 
-#### Extension: `implicit_figures`
+###### Extension: `implicit_figures`
 
     >>> """
     ... ![This is the caption](/url/of/image.png)
@@ -1314,7 +1314,7 @@ Images
     u'image'), Space(), Str(u"won't"), Space(), Str(u'be'), Space(), Str(u'a'), 
     Space(), Str(u'figure')], (u'/url/of/image.png', u'')), Str(u'\xa0')])])
 
-### Extension: link_attributes
+#### Extension: link_attributes
 
     >>> """
     ... An inline ![image](foo.jpg){#id .class width=30 height=20px}
@@ -1338,7 +1338,7 @@ Images
 Footnotes
 --------------------------------------------------------------------------------
 
-#### Extension: `footnotes`
+###### Extension: `footnotes`
 
 Pandoc’s Markdown allows footnotes, using the following syntax:
 
@@ -1385,7 +1385,7 @@ Pandoc’s Markdown allows footnotes, using the following syntax:
     pace(), Str(u'it'), SoftBreak(), Str(u"isn't"), Space(), Str(u'indented.')])
     ])
 
-#### Extension: `inline_notes`
+###### Extension: `inline_notes`
 
     >>> """
     ... Here is an inline note.^[Inlines notes are easier to write, since
@@ -1407,7 +1407,7 @@ Pandoc’s Markdown allows footnotes, using the following syntax:
 Citations
 --------------------------------------------------------------------------------
 
-#### Extension: `citations`
+###### Extension: `citations`
 
     >>> """
     ... ---

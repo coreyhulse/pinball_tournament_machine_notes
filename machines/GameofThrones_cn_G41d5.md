@@ -1,8 +1,8 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Known Issues
+### Known Issues
 -   Often ball gets stuck up top, near top lanes, causing 1-ball multiball. Somehow fix that to reduce ball getting stuck there.
-## Physical Setup
+### Physical Setup
 -   Verify Machine Level Machine
 -   Outlane Posts on "Hard Settings". I.e. most open.
 -   Make slingshots sensitive
@@ -12,7 +12,7 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   Check Flipper Strength (adjust #43 setting below if needed)
 -   Clean/wax playfield if necessary
 -   Clean glass
-## Install Menu
+### Install Menu
 -   Install 3-Ball
 -   Install Medium
 -   Install Competition

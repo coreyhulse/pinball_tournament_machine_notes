@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Switch or Software Setup
+### Switch or Software Setup
 -   3-Ball Play (S16 OFF)
 -   Disable Extra Balls, Special worth points (S6 ON, S7 OFF)
 -   Reset multiplier each ball (S14)

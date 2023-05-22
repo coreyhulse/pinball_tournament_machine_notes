@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Standard Adjustments, verify or update AFTER "Install"
+### Standard Adjustments, verify or update AFTER "Install"
 -   #14 Special Award: POINTS.
 -   #16 Extra Ball Limit: NO EXTRA BALLS.
 -   #21 Balls per Game: 3
@@ -15,9 +15,9 @@ The following was imported from the WA Pinball Machine Notes webpage at http://w
 -   #53 Consolation Ball: NO
 -   #63 Lost Ball Recovery: NO
 -   #64 Coin Door Disable Tilt: YES
-## Feature Adjustments
+### Feature Adjustments
 -   Reduce Multiball ball save times to 5 seconds
 -   outlane ball save to hard settings, one per game
 -   Virtual Locks
-## Posted Notes
+### Posted Notes
 -   outlane ball save hard, one per game

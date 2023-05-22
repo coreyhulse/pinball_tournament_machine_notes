@@ -1,6 +1,6 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
-## Switch or Software Setup
+### Switch or Software Setup
 -   5-Ball Play for PinGolf, 3-ball for Round E and Rookie
 -   Disable Extra Balls
 -   Special is points

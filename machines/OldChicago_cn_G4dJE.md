@@ -1,7 +1,7 @@
 ***
 The following was imported from the WA Pinball Machine Notes webpage at http://wapinball.net/setups/
 # Bally Old Chicago
-## Physical Setup
+### Physical Setup
 -   Level Machine -- about 1% steeper than factory recommendation
 -   Playfield Panel Post Adjustment: HARD
 -   Ear Plug Tilt Hack
