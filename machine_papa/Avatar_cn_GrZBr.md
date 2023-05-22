@@ -3,6 +3,8 @@ The following was imported from the PAPA/ReplayFX Competition Notes webpage at h
 
 ### Tech Notes
             
-Aside from standard slingshot and outlane adjustments, the only adjustment typically made is to add fatter posts to the link entrance, making the shot more difficult.### Concerns
+Aside from standard slingshot and outlane adjustments, the only adjustment typically made is to add fatter posts to the link entrance, making the shot more difficult.
+
+### Concerns
             
 By using this tournament, you will be forced to remember how big of a disappointment this movie was.
