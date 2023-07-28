@@ -1,11 +1,17 @@
-# pinball_td_notes
+# pinball_tournament_machine_notes
 
-### Pinball Tournament Director Machine Notes
+### Pinball Tournament Machine Notes
 
 ### About
 * The goal of this repository is to collect pinball machine settings information that would be ideal for tournament directors
 * Data collected here will eventually be ported and integrated into https://opdb.org, a public respository of pinball machine information
 * Notes are being compiled by OPDB Group
+
+## Workflow
+* Please request edit access to this repo if you want to contribute
+* Create a branch and make your proposed changes
+* Submit a pull request which will be reviewed by an Admin
+* Admins will merge the pull request and copy the data into OPDB, which will in turn be reflected on matchplay.events
 
 ### What is OPDB?
 From https://opdb.org/about
