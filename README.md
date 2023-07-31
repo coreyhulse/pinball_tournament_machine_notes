@@ -27,11 +27,12 @@ From https://opdb.org/about
 * Differences between machines regarding tournament conditions can be more easily noted and compared at the `Group` level
 
 ### Naming Conventions
-File names will consist of three parts in the following format: `machinename_code_group.md`
+File names will consist of four parts in the following format: `machinename_code_id_group.md`
 |field|notes|
 |-|-|
 |`machinename`|Name of the machine.  No Underscores or spaces.|
 |`code`|Two-character code representing the type of file.<ul><li>`cs` - Competition Setup</li><li>`cn` - Competition Notes</li><li>`tg` - Tags to Add to OPDB</li></ul>|
+|`id`|Internal database identifier for the OPDB Group|
 |`group`|OPDB Group|
 |`.md`|We are using the Markdown file type|
 
