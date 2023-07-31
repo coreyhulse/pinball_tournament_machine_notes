@@ -30,7 +30,7 @@ print("---")
 print("Conversion Starting!")
 print("---")
 
-sql_build = 'select * from sandbox.machine_groups'
+sql_build = 'select machine_groups.*, opdb_group.opdb_group_id from sandbox.machine_groups left join sandbox.opdb_group on machine_groups.machine_group_id = opdb_group.machine_group_id where deleted_at is not null'
 
 cursor.execute(sql_build)
 print("Selecting rows from mobile table using cursor.fetchall")
@@ -43,12 +43,12 @@ for row in machine_records:
     machine_name_clean = re.sub(r'[^a-zA-Z0-9]','',machine_name)
     competition_setup = bytes(str(row[6]), "utf-8").decode("unicode_escape")
     competition_notes = bytes(str(row[7]), "utf-8").decode("unicode_escape")
-    opdb_id = 'G0000'
+    opdb_id = row[11]
 
-    filename_cs = machine_name_clean + '_cs_' +  opdb_id
+    filename_cs = machine_name_clean + '_cs_' + machine_group_id + '_' +  opdb_id
     fileloc_cs = 'machines/' + filename_cs
 
-    filename_cn = machine_name_clean + '_cn_' +  opdb_id
+    filename_cn = machine_name_clean + '_cn_' + machine_group_id + '_' +  opdb_id
     fileloc_cn = 'machines/' + filename_cn
 
     print("Id = ", row[0], " Machine = ", machine_name_clean)
