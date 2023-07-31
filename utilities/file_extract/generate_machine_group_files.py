@@ -45,10 +45,10 @@ for row in machine_records:
     competition_notes = bytes(str(row[7]), "utf-8").decode("unicode_escape")
     opdb_id = row[11]
 
-    filename_cs = machine_name_clean + '_cs_' + machine_group_id + '_' +  opdb_id
+    filename_cs = machine_name_clean + '_cs_' + machine_group_id + '_' +  opdb_id + '.md'
     fileloc_cs = 'machines/' + filename_cs
 
-    filename_cn = machine_name_clean + '_cn_' + machine_group_id + '_' +  opdb_id
+    filename_cn = machine_name_clean + '_cn_' + machine_group_id + '_' +  opdb_id + '.md'
     fileloc_cn = 'machines/' + filename_cn
 
     print("Id = ", row[0], " Machine = ", machine_name_clean)
