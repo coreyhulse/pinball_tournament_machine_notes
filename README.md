@@ -8,7 +8,6 @@
 * Notes are being compiled by OPDB Group
 
 ## Workflow
-* Please request edit access to this repo if you want to contribute
 * Create a branch and make your proposed changes
 * Submit a pull request which will be reviewed by an Admin
 * Admins will merge the pull request and copy the data into OPDB, which will in turn be reflected on matchplay.events
