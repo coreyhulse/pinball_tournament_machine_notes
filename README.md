@@ -49,3 +49,7 @@ From https://opdb.org/about
 * Notes about specific machines can be logged at a `Group` level
 * Differences between machines regarding tournament conditions can be more easily noted and compared at the `Group` level
 
+### Acknowledgements
+* Initialization of the notes are courtesy of data pulls from:
+  * PAPA/ReplayFX Competition Notes -> https://replayfoundation.org/papa/learning-center/director-guide/game-notes/
+  * Dave Stewwrt's WA Pinball .docx Repo -> http://wapinball.net/setups/
