@@ -4,13 +4,37 @@
 
 ### About
 * The goal of this repository is to collect pinball machine settings information that would be ideal for tournament directors
-* Data collected here will eventually be ported and integrated into https://opdb.org, a public respository of pinball machine information
-* Notes are being compiled by OPDB Group
+* Data collected here will be ported and integrated into https://opdb.org, a public respository of pinball machine information
+* Notes are being compiled by OPDB Machine Group
+
+## Initialization
+* Please drop an email to pinballspinner@gmail.com or contact Corey Hulse on http://tiltforums.com/u/coreyhulse/ to ask for access.  An Admin will add you as a Contributor.  Right now the only "Admin" is Corey so please be patient if there's a delay in access.
+* You can also Fork the repo, but we'd prefer to add you directly as a contributor to the original repo.
+
+### Naming Conventions
+File names will consist of four parts in the following format: `machinename_code_id_group.md`
+|field|notes|
+|-|-|
+|`machinename`|Name of the machine.  No Underscores or spaces.|
+|`code`|Two-character code representing the type of file.<ul><li>`cs` - Competition Setup</li><li>`cn` - Competition Notes</li></ul>|
+|`id`|Internal database identifier for the OPDB Group|
+|`group`|OPDB Group|
+|`.md`|We are using the Markdown file type|
 
 ## Workflow
 * Create a branch and make your proposed changes
+* File Notes:
+    * 'cs' is for Competition Setup (things like software, switches, and adjustments)
+    * 'cn' is for Competition Notes (things like tech notes, concerns, etc)
 * Submit a pull request which will be reviewed by an Admin
-* Admins will merge the pull request and copy the data into OPDB, which will in turn be reflected on matchplay.events
+* Admins will merge the pull request and manually copy the data into OPDB, which will in turn be reflected on matchplay.events.  We might have automated integration with OPDB in the future, but at the moment it's a manual copy and paste for any merge requests.
+
+## Formatting Notes
+* We are using the Markdown file type, specifically the GitHub Flavored Markdown Spec: https://github.github.com/gfm/
+* All Files should be formmated with markdown where appropriate, but any plain-text contribution would be appreciated 
+* For Headers, please use four hashes: `####` - this will keep the formatting clean when loading on MatchPlay.events
+* Use bullets where possible as opposed to long-winded text blocks
+* Use tables to organize any kind of Machine Settings / Switches; bulleted lists are also acceptable
 
 ### What is OPDB?
 From https://opdb.org/about
@@ -25,16 +49,3 @@ From https://opdb.org/about
 * Notes about specific machines can be logged at a `Group` level
 * Differences between machines regarding tournament conditions can be more easily noted and compared at the `Group` level
 
-### Naming Conventions
-File names will consist of four parts in the following format: `machinename_code_id_group.md`
-|field|notes|
-|-|-|
-|`machinename`|Name of the machine.  No Underscores or spaces.|
-|`code`|Two-character code representing the type of file.<ul><li>`cs` - Competition Setup</li><li>`cn` - Competition Notes</li><li>`tg` - Tags to Add to OPDB</li></ul>|
-|`id`|Internal database identifier for the OPDB Group|
-|`group`|OPDB Group|
-|`.md`|We are using the Markdown file type|
-
-### File Format
-* We are using the Markdown file type, specifically the GitHub Flavored Markdown Spec: https://github.github.com/gfm/
-* All Files should be formmated with markdown where appropriate, but any plain-text contribution would be appreciated 
