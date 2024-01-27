@@ -1,1 +1,1 @@
-None
+If ball save is enabled for the left scoop (#22) and subway saucer (#23), players can abuse this ball save feature during multiball. Evaluate the reliability of the scoop and saucer feeds (power settings #5 and #6) to determine whether these ball save settings are needed. Factory default is Left Eject: No Ball Saves; Subway: 2 seconds.
