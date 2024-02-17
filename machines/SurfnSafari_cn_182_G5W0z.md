@@ -10,4 +10,4 @@ To make SnS suitable for any competition, the following changes are recommended:
 
 #### Notes about DOUBLE
 
-Set DOUBLE to start at DO on each ball. (Tournament mode setting) DOUBLE works like MUSTANG letters in Mustang and RANSOM letters in Black Knight 2000, but note that there's no option for it to start at the same place per player per game -- just per ball.
+Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes)
