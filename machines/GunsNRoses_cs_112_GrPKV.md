@@ -1,3 +1,4 @@
+This is the Data East Game
 #### Software Setup
 -   #7 Install HARD.
 #### Standard Adjustments after Software Setup
@@ -8,6 +9,6 @@
 -   #34 Coil Pulse Power to HARD
 -   #37 Buy-in OFF
 -   #39 Game Restart: NO
--   #43 Player Competition: PAPA
+-   #43 Player Competition: PAPA (Sets free play, hiscores off, match off )
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
