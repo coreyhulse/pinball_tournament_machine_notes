@@ -1,5 +1,3 @@
-#### Concerns
-            
-Not a reasonable competition game due to carry-over of thirteen ball countdown feature.
+           
+thirteen ball countdown feature is per player in Tournament mode at least on latest roms.
 
-Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes)

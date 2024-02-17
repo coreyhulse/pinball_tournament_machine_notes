@@ -1,6 +1,6 @@
- * **Competition Mode**
+* **Competition Mode**
     * Effect unknown - probably changes Tobin Spirit Guide awards
- * **Competition Install**
+* **Competition Install**
     * Player Language Select (#42): No
     * Game Restart (#46): No
     * Competition Mode (#52): Yes

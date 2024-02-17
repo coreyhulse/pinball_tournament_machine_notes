@@ -7,7 +7,8 @@
 -   A1.26 Tournament Play YES
 -   A1.33 Game Restart: Never
 -   A2.01: No buy-in
+#### Below are TD Choice 
 -   A2.04: Ball Save Time: 5
 -   A2.12: First Hard Lock: 01 (number of locks lit on center ramp shot, for first MB)
 
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
+Source: [WA Pinball Machine Notes](http://wapinball.net/setups/) and others
