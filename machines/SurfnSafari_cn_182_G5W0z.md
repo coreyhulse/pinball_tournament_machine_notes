@@ -1,5 +1,29 @@
-#### Tech Notes
-            
-Surf 'n Safari is the most fun, challenging game ever created that features a crocodile with a Jamaican accent. To make SnS suitable for high-level competition, the following changes are recommended: * Add grommets to the coil stops or bend the back end of the flipper bracket inward slightly to shorten the flipper throw and prevent the dreaded System 3 "Catch All" flipper effect. * Plug the Plunge hole. Use a plastic plug or duct tape or anything that works and doesn't introduce ball hanges. The Plunge awards are unbalanced and can give one player "absolutely nothing" and another player instant multiball, a completed column, or millions of points. Notes: 1) With the Plunge hole removed, its VUK wireform can also optionally be removed with no effect on gameply; 2) If you are unable or unwilling to plug your Plunge hole, the Catch Up can and should be disabled in the menu. * Set DOUBLE to start at DO on each ball. DOUBLE works like MUSTANG letters in Mustang and RANSOM letters in Black Knight 2000, but note that there's no option for it to start at the same place per player per game -- just per ball. * Remove the outlane switches. The Exit award (lit via one shot in each of the slides or at the start of the game depending on settings) is another source of widely unbalanced awards. Note that the outlane ball save will also be disabled when the outlane switches are removed. In conjunction with the Plunge award being disabled and no plunge feeding directly to a flipper, the elimination of the outlane ball save will significantly reduce average ball times. * Remove the Exit Award bulbs to make it more clear to players that no ball save or Exit Award. * Optionally, turn on Novelty mode so normal extra balls and specials are worth points.
+### Hardsetup notes
 
-Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes)
+#### Install Menu (in order)
+-   Install Hard
+-   Install Free Play Competition. (If setup for free play)
+-   Install Novelty
+#### Standard Adjustments, verify or update AFTER "Install Menu"
+-   #06 Special Limit: POINTS.
+-   #09 Extra Ball Limit: NO EXTRA BALLS.
+-   #14 Balls per Game: 3
+-   #30 Free Play: YES (If setup for free play)
+-   #33 Coil Power: HARD (verify machine plays ok)
+-   #35 Game Restart: NO
+-   #38 Freeze Save Time: 3 (TD Choice set to zero to turn off ball saver)
+-   #40 Timed Plunger OFF
+-   #41 Flipper Ball Launch DISABLED
+-   #42 Coin Door Ball Saver: YES
+-   #43 Competition Mode: YES
+-   #44 Consolation Ball: NO
+
+# Feature Adjustments:
+-   #03 Start Multiball Diff: EXHARD ( TD Choice )
+-   #05 Kickback Relight Diff: EXHARD ( TD Choice )
+-   #09 Disable RPG: YES. ( TD Choice If working you can keep on)
+-   Disable/Reduce Multiball Ball Saver if possible.
+#### Posted Notes:
+-   RPG Disabled -- 5M Points and need 2 times to get light
+
+Source: [WA Pinball Machine Notes](http://wapinball.net/setups/) and others

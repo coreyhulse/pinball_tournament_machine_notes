@@ -1,6 +1,6 @@
 #### Software Setup
 -   A53 Reset to Factory Default.
--   A45 Tournament/Competition Mode -- Pinball Expo
+-   A45 Tournament/Competition Mode -- Pinball Expo (sets free play)
 Standard Adjustments:
 -   Special award: POINTS.
 -   A4, A6 Extra Ball Limit: NO EXTRA BALLS.
@@ -19,4 +19,4 @@ Standard Adjustments:
 -   A24-29 HSTD default scores, make them low
 -   A12 Reset HSTD, A19 YES
 
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
+Source: [WA Pinball Machine Notes](http://wapinball.net/setups/) and others
