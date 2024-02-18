@@ -1,6 +1,6 @@
 #### System Settings
 -   Balls per Game: 3.
--   Ball Save Time: 3
+-   Ball Save Time: 3 (TD choice)
 -   Auto-Launch Timeout: OFF
 -   Flipper Auto-Launch: OFF
 -   Competition Mode: ON
