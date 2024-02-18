@@ -7,4 +7,9 @@ The timing of the sideramp skillshot on Baywatch is sensitive to the gameï¿½s
 Do not disable Left Ramp Trap Door on stock roms
 Custom update rom 4.01 makes the gate timings to be more lenient
 
+Tournament mode info
+-   Expo or papa (sets free play, match off, replay off, highscore off )
+-   ifpa (sets coin play default priceing, match off, replay off, highscore off )
+# Do Tournament mode 1st as this resets meny settings
+
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and others

@@ -20,7 +20,7 @@
 -   Bell to swing the most
 -   JAM multiball to hard setting (TD choice)
 -   No multiball ball saver (TD choice)
-#### Posted Notes if game set to hard
+#### Posted Notes if game set this way
 -   No multiball ball savers \[verify setting before posting\]
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
