@@ -9,7 +9,7 @@
 -   #38 Free Play: YES
 -   #43 Coil Power: HARD (verify machine plays ok)
 -   #45 Game Restart: NO
--   #48 Ball Save Time: 5
+-   #48 Ball Save Time: 5 (TD CHOICE)
 -   #49 Timed Plunger OFF
 -   #50 Flipper Ball Launch OFF
 -   #51 Coin Door Ball Saver: YES
@@ -19,7 +19,7 @@
 -   #63 Lost Ball Recovery: NO
 -   #64 Coin Door Disable Tilt: YES
 #### Feature Adjustments
--   Reduce Multiball ball save times to minimum
+-   Reduce Multiball ball save times to minimum (TD CHOICE)
 -   Virtual Groot Locks
 -   Disable Groot Motor
 #### Posted Notes

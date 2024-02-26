@@ -12,6 +12,6 @@
 -   A3-17: Free Play: YES
 #### Feature Adjustments
 -   A2.12 Quick Freeze Difficulty: MEDIUM
--   A2.18 Claw Disabled: YES
+-   A2.18 Claw Disabled: YES (if not useing Tournament rom)
 
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
+Source: [WA Pinball Machine Notes](http://wapinball.net/setups/) and others

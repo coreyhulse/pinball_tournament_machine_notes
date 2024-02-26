@@ -8,3 +8,5 @@
 -   Outlane posts to difficult. Remove rubber on post.
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
+
+http://tiltforums.com/t/known-bugs/522/74

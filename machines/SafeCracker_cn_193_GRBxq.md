@@ -1,1 +1,1 @@
-None
+This is an payout % game when not use the (No Percentaging) roms

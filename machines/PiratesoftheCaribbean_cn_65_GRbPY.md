@@ -1,1 +1,3 @@
-None
+This is the JJP game
+#### Concerns
+Play as Single Player Game due to character picking being blocked by other players

@@ -1,5 +1,10 @@
 Adjustment 53, Ramp Memory, Should be set to HARD.
 
+Tournament mode info
+-   Expo or papa (sets free play, match off, replay off, highscore off )
+-   ifpa (sets coin play default priceing, match off, replay off, highscore off )
+# Do Tournament mode 1st as this resets meny settings
+
 #### Software Setup
 -   #7 Install HARD.
 #### Standard Adjustments after Software Setup
@@ -11,7 +16,6 @@ Adjustment 53, Ramp Memory, Should be set to HARD.
 -   #35 Guaranteed Game Time: 0:00
 -   #37 Buy-in OFF
 -   #39 Game Restart: NO
--   #43 Player Competition: PAPA
 -   #47 Laser Kick EXHARD
 -   #50 Multiball Restart: HARD
 -   #53 Multiball Difficulty: HARD

@@ -1,1 +1,1 @@
-None
+This is the Stern game
