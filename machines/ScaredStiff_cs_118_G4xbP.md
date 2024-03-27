@@ -15,6 +15,6 @@ Ball save off does nothing and balls will be saved
 -   A2.10: Coffin Ball Save: OFF (TD CHOICE)
 -   A2.11: Crate Ball Save: OFF (TD CHOICE)
 #### Posted Notes
--   No Multiball Ball Saves
+-   No Multiball Ball Saves (If used)
 
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and [WA Pinball Machine Notes](http://wapinball.net/setups/) and others
