@@ -4,8 +4,8 @@
 -   #21 Balls per Game: 3
 -   #38 Free Play: YES
 -   #43 Coil Power: HARD (if necessary)
--   #45 Game Restart: NO
--   #48 Ball Save Time: 5
+-   #45 Game Restart: NO 
+-   #48 Ball Save Time: 5 (TD CHOICE)
 -   #49 Timed Plunger OFF
 -   #50 Flipper Ball Launch OFF
 -   #51 Coin Door Ball Saver: YES
@@ -14,10 +14,11 @@
 -   #63 Lost Ball Recovery: NO
 -   #64 Coin Door Disable Tilt: YES
 #### Feature Adjustments
--   Reduce Multiball ball save times to 5 seconds
--   outlane ball save to hard settings, one per game
+-   Reduce Multiball ball save times to 5 seconds (TD CHOICE)
+-   outlane ball save (lord of light) to hard settings, one per game (TD CHOICE) one per game does not = one use
+-   outlane ball save (lord of light) to 3 banks is an other choice
 -   Virtual Locks
 #### Posted Notes
--   outlane ball save hard, one per game
+-   outlane ball save hard, one per game (TD CHOICE)
 
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
+Source: [WA Pinball Machine Notes](http://wapinball.net/setups/) and others

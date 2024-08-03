@@ -3,9 +3,6 @@
 -   Tournament/Competition Mode
 #### Standard Adjustments:
 -   Special award: POINTS.
--   Extra Ball Limit: NO EXTRA BALLS..
+-   Extra Ball: POINTS
 -   Free Play: ON
 -   Game Restart: NO
--   Tournament: PAPA
-
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

@@ -7,13 +7,13 @@
 -   A1.26 Tournament Play YES
 -   A1.33 Game Restart: Never
 -   A2.01: No buy-in
--   A2.03: Ball Saves: 3
--   A2.04 Ball Save Time: 3
+-   A2.03: Ball Saves: 3 (TD CHOICE)
+-   A2.04 Ball Save Time: 3 (TD CHOICE)
 -   A3-17: Free Play: YES
 #### Feature Adjustments
 -   A2.02 Kickback difficulty: EXHARD
 -   A2.09 Skill Lock Count: ONE
--   A2.12 Return to Duty: OFF
+-   A2.12 Return to Duty: OFF (TD CHOICE)
 -   A2.14 Hidden Video Mode: OFF
 
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
+Source: [WA Pinball Machine Notes](http://wapinball.net/setups/) and other

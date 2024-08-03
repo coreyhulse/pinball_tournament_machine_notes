@@ -17,3 +17,8 @@ Frankenstein is a bit of a one-shot wonder provided the left flipper is strong e
 -   Verify Volume
 
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and [WA Pinball Machine Notes](http://wapinball.net/setups/)
+
+Tournament mode info
+-   Expo or papa (sets free play, match off, replay off, highscore off )
+-   ifpa (sets coin play default priceing, match off, replay off, highscore off )
+# Do Tournament mode 1st as this resets meny settings
