@@ -1,10 +1,5 @@
 Adjustment 53, Ramp Memory, Should be set to HARD.
 
-Tournament mode info
--   Expo or papa (sets free play, match off, replay off, highscore off )
--   ifpa (sets coin play default priceing, match off, replay off, highscore off )
-# Do Tournament mode 1st as this resets meny settings
-
 #### Software Setup
 -   #7 Install HARD.
 #### Standard Adjustments after Software Setup
@@ -22,5 +17,10 @@ Tournament mode info
 -   #56 Easy 2-Ball Start: NO
 #### Posted Notes
 -   Kickback is UNLIT at start of each ball.
+
+#### Tournament mode info
+-   Expo or PAPA (sets free play, match off, replay off, high score off)
+-   IFPA (sets coin play default pricing, match off, replay off, high score off)
+-   Do Tournament mode 1st as this resets many settings
 
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and [WA Pinball Machine Notes](http://wapinball.net/setups/)

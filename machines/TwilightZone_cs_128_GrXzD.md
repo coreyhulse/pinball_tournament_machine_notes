@@ -2,7 +2,7 @@
 -   U9.03 Install Medium.
 -   U9.07 Install 3-ball
 -   U9.10 Install Novelty. (No EB, Special is points)
--   A3.06 Units/Credits: 1 - Pricing: 25 cent play (if not useing free play)
+-   A3.06 Units/Credits: 1 - Pricing: 25 cent play (if not using free play)
 #### Standard Adjustments
 -   A1.26 Tournament Play YES
 -   A1.33 Game Restart: Never

@@ -1,1 +1,1 @@
-This the stern game
+This the Stern game

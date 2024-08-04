@@ -1,6 +1,8 @@
 #### Tech Notes
             
-Valid playfield is an feature setting 133 (le) 123 (pro) .
+Valid playfield is an feature setting
+- LE: 133
+- PRO: 123
 
 #### Concerns
 If the orbit post in the back of the game is not perfectly level with the playfield, balls have a tendency to stick in this location when rolling slowly through the orbit. This issue frequently arises during multiball. One potential fix is to disable the post in the menu settings, hoping it allows balls to pass through the orbit at a higher speed more frequently.
