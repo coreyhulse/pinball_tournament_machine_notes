@@ -6,7 +6,7 @@
 -   Verify A1-04 No Extra Balls
 -   A1.26 Tournament Play YES
 -   A2.23 Quick Multiball Memory YES
--   A3-17: Free Play: YES (If useing free play)
+-   A3-17: Free Play: YES (If using free play)
 #### Posted Notes
 -   None
 

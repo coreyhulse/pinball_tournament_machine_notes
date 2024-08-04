@@ -1,3 +1,4 @@
-Install custom roms to not have
-locks released as per a ball search
-Predicted mystery awards and no random Sudden death
+Custom ROMs exist which include the following:
+- Avoids locks released as per a ball search
+- Predicted mystery awards
+- Sudden Death is un-randomized

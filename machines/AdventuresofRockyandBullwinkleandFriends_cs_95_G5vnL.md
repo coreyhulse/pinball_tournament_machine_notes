@@ -1,9 +1,9 @@
 #### Software Setup
 -   A53 Reset to Factory Default.
 -   A45 Tournament/Competition Mode 
--   Expo or papa (sets free play, match off, replay off, highscore off )
--   ifpa (sets coin play default priceing, match off, replay off, highscore off )
-# Do Tournament mode 1st as this resets meny settings
+-   Expo or PAPA (sets free play, match off, replay off, high score off)
+-   IFPA (sets coin play default pricing, match off, replay off, high score off)
+-   Do Tournament mode 1st as this resets many settings
 Standard Adjustments:
 -   Special award: POINTS.
 -   A4, A6 Extra Ball Limit: NO EXTRA BALLS.
@@ -18,7 +18,7 @@ Standard Adjustments:
 -   A50 Jackpot Easy
 -   A51 Yes
 -   A52 Easy Save Nell
--   A24-29 HSTD default scores, make them low Tournament mode expo disables highscore
+-   A24-29 HSTD default scores, make them low Tournament mode expo disables high score
 -   A12 Reset HSTD, A19 YES
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/) and others
