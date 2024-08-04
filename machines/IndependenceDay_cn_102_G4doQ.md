@@ -8,6 +8,6 @@ Top playersï¿½ strategy is to shoot the left lane repeatedly for an award tha
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes)
 
 Tournament mode info
--   Expo or papa (sets free play, match off, replay off, highscore off )
--   ifpa (sets coin play default priceing, match off, replay off, highscore off )
-# Do Tournament mode 1st as this resets meny settings even sound volume
+-   Expo or PAPA (sets free play, match off, replay off, high score off)
+-   IFPA (sets coin play default pricing, match off, replay off, high score off)
+-   Do Tournament mode 1st as this resets many settings even sound volume

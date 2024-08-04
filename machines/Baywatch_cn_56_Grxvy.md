@@ -8,8 +8,8 @@ Do not disable Left Ramp Trap Door on stock roms
 Custom update rom 4.01 makes the gate timings to be more lenient
 
 Tournament mode info
--   Expo or papa (sets free play, match off, replay off, highscore off )
--   ifpa (sets coin play default priceing, match off, replay off, highscore off )
-# Do Tournament mode 1st as this resets meny settings
+-   Expo or PAPA (sets free play, match off, replay off, high score off)
+-   IFPA (sets coin play default pricing, match off, replay off, high score off)
+-   Do Tournament mode 1st as this resets many settings
 
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and others

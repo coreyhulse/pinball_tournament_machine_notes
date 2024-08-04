@@ -1,7 +1,5 @@
-Tournament mode info
--   Expo or papa (sets free play, match off, replay off, highscore off )
--   ifpa (sets coin play default priceing, match off, replay off, highscore off )
-# Do Tournament mode 1st as this resets meny settings
+This is the Data East version.
+
 #### Software Setup 
 -   #7 Game Rules: EXHARD
 #### Standard Adjustments 
@@ -14,5 +12,10 @@ Tournament mode info
 -   #47 Rerace Criteria: EXHARD
 #### Posted Notes 
 -   No Multiball Restart
+#### Tournament mode info
+-   Expo or PAPA (sets free play, match off, replay off, high score off)
+-   IFPA (sets coin play default pricing, match off, replay off, high score off)
+-   Do Tournament mode 1st as this resets many settings
+
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/) and others

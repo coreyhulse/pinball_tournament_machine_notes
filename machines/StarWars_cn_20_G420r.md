@@ -1,3 +1,5 @@
+This is the Data East version.
+
 #### Tech Notes
             
 If Star Wars must be used, align the right flipper so that repeating the ramp on the fly is not possible. Make sure a ball exiting the scoop on the left does not bounce off of the left flipper when held upright back into the scoop.
