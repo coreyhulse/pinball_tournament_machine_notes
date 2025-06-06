@@ -1,3 +1,8 @@
+#### Carryover Jackpot
+-   Power cycle the machine before each game to prevent the Burnout Multiball Combo Jackpot value from carrying over
+  -   Without a power cycle this value can carry over in non-obvious ways from game to game, but the carry over is within each player position rather than shared across players.
+  -   Further details on [Tilt Forums](https://tiltforums.com/t/mustang-wiki-rulesheet/643/11).
+
 #### Physical Setup
 -   Level Machine, much steeper than factory recommendation
 -   Outlane Posts on "Hard Settings". I.e. most open.
