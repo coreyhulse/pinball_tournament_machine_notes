@@ -13,4 +13,10 @@ In general, Centaur is not a long-playing game, and the ball is out of control f
 -   Clean Glass
 -   Check Flipper Strength
 
-Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and [WA Pinball Machine Notes](http://wapinball.net/setups/)
+#### Multiball
+The game features frequent multiball play including a lower lane multiball that can effectively act as an outlane ball save. Around 2024 some tournaments have started playing Centaur with only a single pinball. The game still performs the multiball launch light show but works correctly with only a single ball installed. This offers tournament directors an additional option for game setup.
+
+#### Sources
+- [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes)
+- [WA Pinball Machine Notes](http://wapinball.net/setups/)
+- IFPA 2024 & INDISC 2025
