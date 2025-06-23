@@ -1,3 +1,5 @@
+This is the Stern 2017 version.
+
 #### Install Menu
 -   Install 3-Ball
 -   Install Hard
