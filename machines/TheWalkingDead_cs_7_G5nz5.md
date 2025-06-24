@@ -3,8 +3,7 @@
 -   Tournament/Competition Mode
 #### Standard Adjustments:
 -   Special award: POINTS.
--   Extra Ball Limit: NO EXTRA BALLS. Check if this makes them points. If not adjust for points.
--   Fixed Extra Ball Threshold?
+-   Extra Ball Limit: NO EXTRA BALLS (awards points)
 -   Free Play: ON
 -   Game Restart: NO
 -   Ball Save Time: 3

@@ -18,6 +18,7 @@
 -   outlane ball save (lord of light) to hard settings, one per game (TD CHOICE) one per game does not = one use
 -   outlane ball save (lord of light) to 3 banks is an other choice
 -   Virtual Locks
+  - Especially important since physical locks and a shake of the balls in the trough can lead to a multiball start
 #### Posted Notes
 -   outlane ball save hard, one per game (TD CHOICE)
 

@@ -1,3 +1,5 @@
+This is the Stern 2017 version.
+
 #### Physical Setup
 -   Level Machine -- about 1% steeper than factory recommendation
 -   Outlane Posts on "Hard Settings". I.e. most open.
@@ -7,7 +9,7 @@
 -   Verify Tilt Sensitivity -- should be sensitive, but only one danger with each hard bump
 -   Check coin door ball save.
 -   Check Flipper Strength (after #43 setting below)
--   Check coil strength of Tortoise eject, must not go straight down middle.
+-   Check coil strength of Tatooine eject, must not go straight down middle.
 -   Clean/wax playfield
 -   Clean glass
 -   Verify Volume
