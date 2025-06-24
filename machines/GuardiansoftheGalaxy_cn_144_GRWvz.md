@@ -13,7 +13,7 @@
 #### Unreliable Mech - Orb Drop Target
 -   The orb drop target can be somewhat unreliable if not properly maintained.
 -   Disabling the drop target via Feature adjustment #1 does not fully disable it and will lead to frequent stuck balls in multiball.
--   Physically disconnect the drop target instead (TODO: Instructions on exactly how; Chris W)
+-   Physically disconnect the drop target instead.  Disconnect the wiring harness connection that feeds power to the drop target then knock the target down.
 -   This will make it impossible to qualify Orb Multiball. As a result it will also be impossible to qualify Immolation Initiative and Save Xandar. Orb shots can still be completed by hitting the orb standup in modes, Groot Multiball, and Cherry Bomb Multiball.
 
 #### Sources
