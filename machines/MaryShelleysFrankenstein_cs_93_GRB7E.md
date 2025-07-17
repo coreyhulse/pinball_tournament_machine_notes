@@ -23,4 +23,9 @@ Tournament mode info
 #### Posted Notes
 -   Kickback is UNLIT at start of each ball.
 
+#### Tournament mode info
+-   Expo or PAPA (sets free play, match off, replay off, high score off)
+-   IFPA (sets coin play default pricing, match off, replay off, high score off)
+-   Do Tournament mode 1st as this resets many settings
+
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and [WA Pinball Machine Notes](http://wapinball.net/setups/)

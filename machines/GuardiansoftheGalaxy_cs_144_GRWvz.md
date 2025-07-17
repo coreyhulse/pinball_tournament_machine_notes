@@ -22,6 +22,8 @@
 -   Reduce Multiball ball save times to minimum (TD CHOICE)
 -   Virtual Groot Locks
 -   Disable Groot Motor
+-   Reduce Hadron Enforcer Limit to 1 (TD CHOICE)
+-   Save difficulty: Medium (TD CHOICE)
 #### Posted Notes
 -   Groot Virtual Locks
 

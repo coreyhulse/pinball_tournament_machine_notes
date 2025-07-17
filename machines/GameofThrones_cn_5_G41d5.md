@@ -1,5 +1,3 @@
-#### Known Issues
--   Often ball gets stuck up top, near top lanes, causing 1-ball multiball. Somehow fix that to reduce ball getting stuck there.
 #### Physical Setup
 -   Verify Machine Level Machine
 -   Outlane Posts on "Hard Settings". I.e. most open.
