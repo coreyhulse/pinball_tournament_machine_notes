@@ -1,1 +1,1 @@
-None
+There is an fixed jackpot rom mod
