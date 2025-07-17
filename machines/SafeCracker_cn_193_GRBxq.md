@@ -1,1 +1,2 @@
-This is an payout % game when not use the (No Percentaging) roms
+- Because this is a timed game, including it in an IFPA event will encur a TGP penalty since it's not possible to set to a standard 3-ball game
+- This is an payout % game when not using the (No Percentage) ROMs

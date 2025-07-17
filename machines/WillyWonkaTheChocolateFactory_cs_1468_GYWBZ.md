@@ -1,1 +1,1 @@
-Set stored locks off
+Wonkavator Multiball allows balls to stored in the glass elevator.  This carries over player to player and ball to ball.  You can consider virtual locks.
