@@ -1,4 +1,5 @@
 #### Software Setup
+-   USE ROM 2.0.1
 -   #7 Install HARD.
 #### Standard Adjustments after Software Setup
 -   #5 OFF -- No Extra Balls
@@ -13,7 +14,8 @@
 -   #50 Brain Bug -- some SST have issues registering hits. If that's the case, disable it.
 
 #### Tournament mode info
--   Expo or PAPA (sets free play, match off, replay off, high score off)
+
+-   PAPA (sets free play, match off, replay off, high score off)
 -   IFPA (sets coin play default pricing, match off, replay off, high score off)
 -   Do Tournament mode 1st as this resets many settings
 
