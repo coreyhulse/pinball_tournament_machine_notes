@@ -1,1 +1,1 @@
-This is the bally game
+This is Dungeons & Dragons (Bally, 1987)
