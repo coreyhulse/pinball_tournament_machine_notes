@@ -1,2 +1,1 @@
-If not useing the Victory competition/tournament patch(https://tiltforums.com/t/gottlieb-premier-victory-competition-tournament-patch-to-improve-scoring/9189/1)
-play as one player only
+Use the Victory competition/tournament [patch](https://tiltforums.com/t/gottlieb-premier-victory-competition-tournament-patch-to-improve-scoring/9189/1) ROM if possible. Otherwise play as single player only to avoid a bug where checkpoint hurry up values carry over across players.
