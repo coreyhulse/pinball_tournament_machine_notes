@@ -4,7 +4,7 @@ The pitch must be at or near factory recommendations, or the ball launch will st
 
 #### Concerns
 Star Trek Next Generation has a lot of positives, but some of the competitive strategies for the game can be repetitive and dull. The value of reaching the Final Frontier is so high, players may choose to time out modes, leading to lots of waiting. A second strategy is to shoot the Beta ramp repeatedly and play holodecks, a video mode which has a memorizable sequence and is worth a significant number of points when completed correctly.
-
+LX-8 allows for RANDOM CAVES to make it way more challenging
 # Star Trek (TNG)
 #### Physical Setup
 -   Level Machine
