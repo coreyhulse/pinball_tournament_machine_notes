@@ -1,2 +1,4 @@
-disable super star jackpot carry over (TOURNAMENT MODE DOES NOT disable it)
-Set tilt warrings per ball
+### Adjustments
+- Disable Super Star Jackpot Carryover
+  - Note: Tournament mode does not disable this setting
+- Set tilt warnings to per ball (TD choice)
