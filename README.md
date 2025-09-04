@@ -5,7 +5,7 @@
 
 ## About
 * The goal of this repository is to collect pinball machine settings information that would be ideal for tournament directors
-* Data collected here will be ported and integrated into https://opdb.org, a public respository of pinball machine information
+* Data collected here will be ported and integrated into https://opdb.org, a public repository of pinball machine information
 * Notes are being compiled by OPDB Machine Group
 
 ## Initialization
@@ -32,7 +32,7 @@ File names will consist of four parts in the following format: `machinename_code
 
 ## Formatting Notes
 * We are using the Markdown file type, specifically the GitHub Flavored Markdown Spec: https://github.github.com/gfm/
-* All Files should be formmated with markdown where appropriate, but any plain-text contribution would be appreciated 
+* All Files should be formatted with markdown where appropriate, but any plain-text contribution would be appreciated 
 * For Headers, please use four hashes: `####` - this will keep the formatting clean when loading on MatchPlay.events
 * Use bullets where possible as opposed to long-winded text blocks
 * Use tables to organize any kind of Machine Settings / Switches; bulleted lists are also acceptable
@@ -53,4 +53,4 @@ From https://opdb.org/about
 ## Acknowledgements
 * Initialization of the notes are courtesy of data pulls from:
   * PAPA/ReplayFX Competition Notes -> https://replayfoundation.org/papa/learning-center/director-guide/game-notes/
-  * Dave Stewwrt's WA Pinball .docx Repo -> http://wapinball.net/setups/
+  * Dave Stewart's WA Pinball .docx Repo -> http://wapinball.net/setups/
