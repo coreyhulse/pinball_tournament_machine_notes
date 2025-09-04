@@ -1,5 +1,9 @@
-#### Feature Adjustments
+#### Standard adjustments
 
+- Competition mode - On
+
+
+#### Feature Adjustments
 
 - 4 - Disable Left Ramp Diverter (Premium) - No (factory default)
   - A shot to the left ramp with lock lit goes up the diverter to the magnet. If the magnet is too unreliable then disable this diverter. Disabling the diverter will make it more possible to backhand the left ramp for a lock.
