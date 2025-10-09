@@ -1,14 +1,15 @@
-#### Physical Setup
--   Verify Machine Level Machine. Increase steepness if possible.
--   Outlane Posts on "Hard Settings". I.e. most open.
--   Remove rubber on outlane posts
--   Make slingshots extra sensitive
--   Install Ear Plug Tilt Hack
--   Verify Tilt Sensitivity -- should be quite sensitive, but still only one danger with each hard bump
--   Check coin door ball save.
--   Check Flipper Strength (adjust #43 setting below if needed)
--   Clean/wax playfield if necessary
--   Clean glass
--   Verify Volume
+#### Physical setup
+
+- Level machine
+- Outlane posts on their most open position
+- Remove rubber on outlane posts
+- Make slingshots extra sensitive
+- Ear plug tilt hack
+- Verify tilt sensitivity
+- Check coin door ball save
+- Check flipper strength (adjust #43 setting if needed)
+- Clean/wax playfield if necessary
+- Clean glass
+- Verify volume
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

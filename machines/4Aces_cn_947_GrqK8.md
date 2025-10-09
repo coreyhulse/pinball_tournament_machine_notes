@@ -1,9 +1,10 @@
-#### Physical Setup
--   Level Machine, per factory recommendation
--   Ear Plug Tilt Hack
--   Verify Tilt Sensitivity -- should be sensitive, but only one danger with each hard bump
--   Check Flipper Strength, Consider Glo Balls if playing too slow or can't hit upper playfield
--   Clean Playfield if necessary
--   Clean Glass
+#### Physical setup
+
+- Level machine, per factory recommendation
+- Ear plug tilt hack
+- Verify tilt sensitivity
+- Check flipper strength, consider glo balls if the game playing too slow or can't hit upper playfield
+- Clean playfield if necessary
+- Clean glass
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

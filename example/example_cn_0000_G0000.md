@@ -1,4 +1,5 @@
-#### Competition Notes
+#### Competition notes
+
 * Make notes about special things that Tournament Directors should be aware of
   * What kind of pitch should the machine have?
   * Any physical changes that should be made to the machine?
