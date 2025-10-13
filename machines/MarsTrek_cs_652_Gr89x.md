@@ -1,7 +1,8 @@
 #### Switch or Software Setup
--   5-Ball Play.
--   Disable Extra Balls
--   Special worth points
--   Free Play if possible, else Max Credits per coin and minimum replay score
+
+- 5-Ball
+- Disable Extra Balls
+- Special worth points
+- Free Play if possible, else Max Credits per coin and minimum replay score
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

@@ -1,7 +1,7 @@
-#### Software Settings (Box)
+#### Software settings (Box)
 
 |Switch/Adj|Name|Setting|Notes|
-|-|-|-|-|
+|-|-|-|-|-|
 |Self Test XX and YY|Setting Name|Setting Value|Additional Notes|
 |SW A|Setting Name|Setting Name|Setting Value|Additional Notes|
 |SW B|C/D Rollover|Setting Name|Setting Value|Additional Notes|

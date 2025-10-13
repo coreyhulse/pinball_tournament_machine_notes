@@ -1,12 +1,13 @@
-#### Physical Setup
--   Level Machine -- slightly steeper than factory recommendation
--   Outlane Posts on "Hard Settings". I.e. most open.
--   Ear Plug Tilt Hack
--   Verify Tilt Sensitivity -- should be sensitive, but only one danger with each hard bump
--   Check coin door ball save.
--   Check Flipper Strength (after #43 setting below)
--   Clean/wax playfield
--   Clean glass
--   Verify Volume
+#### Physical setup
+
+- Level machine at slightly steeper than factory recommendation
+- Outlane Posts most open setting
+- Ear plug tilt hack
+- Verify tilt sensitivity
+- Check coin door ball save
+- Check flipper strength (Setting #43 might affect coil performance during long playing games)
+- Clean/wax playfield
+- Clean glass
+- Verify volume
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

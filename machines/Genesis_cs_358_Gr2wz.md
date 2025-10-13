@@ -1,8 +1,7 @@
-#### Adjustments:
--   Special award: POINTS.
--   Extra Ball Limit: NO EXTRA BALLS.
--   Free Play: ON (if available?)
-Feature Adjustments:
--   TBD
+#### Adjustments
+
+- Special award: Points
+- Extra Ball Limit: No extra balls
+- Free Play: ON (if available?)
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

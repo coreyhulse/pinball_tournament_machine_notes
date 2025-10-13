@@ -2,7 +2,6 @@
 
 - Competition mode - On
 
-
 #### Feature adjustments
 
 - #1 - Default Game Mode - Competition

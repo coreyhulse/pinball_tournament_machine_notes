@@ -2,7 +2,6 @@
 
 - Competition mode - On
 
-
 #### Feature Adjustments
 
 - 4 - Disable Left Ramp Diverter (Premium) - No (factory default)
