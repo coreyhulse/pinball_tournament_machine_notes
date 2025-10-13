@@ -1,3 +1,3 @@
 #### Settings
 
-- EB disabled: set auj 18 to NOVELTY
+- EB disabled: set adj 18 to NOVELTY
