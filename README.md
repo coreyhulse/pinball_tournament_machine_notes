@@ -32,9 +32,9 @@ File names will consist of four parts in the following format: `machinename_code
 * Create a branch and make your proposed changes
 * File notes:
   * 'cs' is for Competition Setup (things like software, switches, and adjustments)
-  * 'cn' is for Competition Notes (things like tech notes, concerns, etc)
+  * 'cn' is for Competition Notes (things like tech notes, concerns, etc.)
 * Submit a pull request which will be reviewed by an Admin
-* Admins will merge the pull request and manually copy the data into OPDB, which will in turn be reflected on matchplay.events.  We might have automated integration with OPDB in the future, but at the moment it's a manual copy and paste for any merge requests.
+* Admins will merge the pull request and manually copy the data into OPDB, which will in turn be reflected on `matchplay.events`.  We might have automated integration with OPDB in the future, but at the moment it's a manual copy and paste for any merge requests.
 
 ## Formatting notes
 
@@ -43,6 +43,11 @@ File names will consist of four parts in the following format: `machinename_code
 * For headers, please use four hashes: `####` - this will keep the formatting clean when loading on MatchPlay.events
 * Use bullets where possible as opposed to long-winded text blocks
 * Use tables to organize any kind of Machine Settings / Switches; bulleted lists are also acceptable
+* Use [markdownlint](https://github.com/DavidAnson/markdownlint/tree/main) to prevent formatting inconsistencies.
+* A `.markdownlint.json` file is included to customize these rules:
+  * MD003 Always use ATX-style headings (`####`).
+  * MD013 Line length linting rules are ignored.
+  * MD041 Initial heading rules are ignored. Some files lack an initial heading and just have content of "None". Files that do have content should start with a level 4 heading (`####`). Level 4 is used since this content is imported into Match Play Events with additional headers above it.
 
 ## What is OPDB?
 
