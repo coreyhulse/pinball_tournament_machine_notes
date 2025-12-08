@@ -15,3 +15,4 @@ Tournament mode info
 - Do Tournament mode 1st as this resets many settings
 
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and others
+

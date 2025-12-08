@@ -1,3 +1,5 @@
+# do not use latest rom version 3.20 try rom 3.03
+
 #### Standard Adjustments, verify or update AFTER "Install"
 
 - #4 Free Game Limit 0
@@ -16,3 +18,4 @@
 - #61 CHANCE VUK STRENGTH: EXHARD
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
+
