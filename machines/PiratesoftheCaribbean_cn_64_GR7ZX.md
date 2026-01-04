@@ -1,4 +1,6 @@
-This the Stern game
+#### Game Version
+
+- This is the version by Stern, 2006
 
 #### Concerns
 

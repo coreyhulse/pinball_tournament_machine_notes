@@ -1,4 +1,6 @@
-This is the Data East version.
+#### Game Version
+
+- This is the version by Data East, 1992
 
 #### Software Setup
 
