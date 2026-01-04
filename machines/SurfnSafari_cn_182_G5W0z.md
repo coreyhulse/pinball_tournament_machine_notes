@@ -1,14 +1,13 @@
 #### Tech Notes
 
-To make SnS suitable for any competition, the following changes are recommended:
+There is a tournament ROM that makes Surf 'n Safari more suitable for tournament play. If you are using the stock ROM, make these physical changes along with some settings changes.
 
-- Tournament mode on (does not balance the plunge)
-- Catch Up off
-- Turn on Novelty mode so normal extra balls and specials are worth points.
-- Remove the outlane switches. The Exit award is another source of widely unbalanced awards. Note that the outlane ball save will also be disabled when the outlane switches are removed.
-- If you can Plug the Plunge hole (The Plunge awards are unbalanced and can give one player "absolutely nothing" and another player instant multiball, a completed column, or millions of points.)
-- IF you Remove the outlane switches. The Exit award is another source of widely unbalanced awards. Note that the outlane ball save will also be disabled when the outlane switches are removed.
-- IF Do Remove the outlane swtiches. Remove the Exit Award bulbs to make it more clear to players that no ball save or Exit Award.
+- Plug the Plunge hole
+  - The Plunge awards are unbalanced and can give one player "absolutely nothing" and another player instant multiball, a completed column, or millions of points.)
+- Remove the outlane switches.
+  - The Exit award is another source of widely unbalanced awards.
+  - Note that the outlane ball save will also be disabled when the outlane switches are removed.
+  - If you do remove the outlane switches then also remove the Exit Award bulbs to make it more clear to players that there is no ball save or Exit Award.
 
 #### Notes about DOUBLE
 

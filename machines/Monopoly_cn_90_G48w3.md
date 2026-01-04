@@ -1,3 +1,7 @@
+#### ROM Version
+
+Do not use v3.20 ROM, it contains a bug that can crash the game. Instead use v3.03 (and Display ROM v3.01).
+
 #### Tech Notes
 
 Monopoly has a (somewhat) secret flipper code.

@@ -1,3 +1,7 @@
+#### Custom ROM
+
+- A v5.00 ROM is available that makes substantial scoring changes.
+
 #### Physical Setup
 
 - Level Machine

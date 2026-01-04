@@ -2,18 +2,18 @@
 
 ## Relevant links
 
-* TiltForums: <http://tiltforums.com/t/tournament-settings-repo-matchplay-integration/8533>
+- TiltForums: <http://tiltforums.com/t/tournament-settings-repo-matchplay-integration/8533>
 
 ## About
 
-* The goal of this repository is to collect pinball machine settings information that would be ideal for tournament directors
-* Data collected here will be ported and integrated into <https://opdb.org>, a public repository of pinball machine information
-* Notes are being compiled by OPDB Machine Group
+- The goal of this repository is to collect pinball machine settings information that would be ideal for tournament directors
+- Data collected here will be ported and integrated into <https://opdb.org>, a public repository of pinball machine information
+- Notes are being compiled by OPDB Machine Group
 
 ## Initialization
 
-* Please drop an email to <pinballspinner@gmail.com> or contact Corey Hulse on <http://tiltforums.com/u/coreyhulse/> to ask for access.  An Admin will add you as a Contributor.  Right now the only "Admin" is Corey so please be patient if there's a delay in access.
-* You can also Fork the repo, but we'd prefer to add you directly as a contributor to the original repo.
+- Please drop an email to <pinballspinner@gmail.com> or contact Corey Hulse on <http://tiltforums.com/u/coreyhulse/> to ask for access.  An Admin will add you as a Contributor.  Right now the only "Admin" is Corey so please be patient if there's a delay in access.
+- You can also Fork the repo, but we'd prefer to add you directly as a contributor to the original repo.
 
 ## Naming Conventions
 
@@ -29,44 +29,46 @@ File names will consist of four parts in the following format: `machinename_code
 
 ## Workflow
 
-* Create a branch and make your proposed changes
-* File notes:
-  * 'cs' is for Competition Setup (things like software, switches, and adjustments)
-  * 'cn' is for Competition Notes (things like tech notes, concerns, etc.)
-* Submit a pull request which will be reviewed by an Admin
-* Admins will merge the pull request and manually copy the data into OPDB, which will in turn be reflected on `matchplay.events`.  We might have automated integration with OPDB in the future, but at the moment it's a manual copy and paste for any merge requests.
+- Create a branch and make your proposed changes
+- File notes:
+  - 'cs' is for Competition Setup (things like software, switches, and adjustments)
+  - 'cn' is for Competition Notes (things like tech notes, concerns, etc.)
+- Submit a pull request which will be reviewed by an Admin
+- Admins will merge the pull request and manually copy the data into OPDB, which will in turn be reflected on `matchplay.events`.  We might have automated integration with OPDB in the future, but at the moment it's a manual copy and paste for any merge requests.
 
 ## Formatting notes
 
-* We are using the Markdown file type, specifically the GitHub Flavored Markdown Spec: <https://github.github.com/gfm/>
-* All files should be formatted with markdown where appropriate, but any plain-text contribution would be appreciated
-* For headers, please use four hashes: `####` - this will keep the formatting clean when loading on MatchPlay.events
-* Use bullets where possible as opposed to long-winded text blocks
-* Use tables to organize any kind of Machine Settings / Switches; bulleted lists are also acceptable
-* Use [markdownlint](https://github.com/DavidAnson/markdownlint/tree/main) to prevent formatting inconsistencies.
-* A `.markdownlint.json` file is included to customize these rules:
-  * MD003 Always use ATX-style headings (`####`).
-  * MD013 Line length linting rules are ignored.
-  * MD041 Initial heading rules are ignored. Some files lack an initial heading and just have content of "None". Files that do have content should start with a level 4 heading (`####`). Level 4 is used since this content is imported into Match Play Events with additional headers above it.
+- We are using the Markdown file type, specifically the GitHub Flavored Markdown Spec: <https://github.github.com/gfm/>
+- All files should be formatted with markdown where appropriate, but any plain-text contribution would be appreciated
+- For headers, please use four hashes: `####` - this will keep the formatting clean when loading on MatchPlay.events
+- Use bullets where possible as opposed to long-winded text blocks
+- Use `-` for bullets rather than `*`
+- Use two spaces to indent sub-bullets rather than four spaces
+- Use tables to organize any kind of Machine Settings / Switches; bulleted lists are also acceptable
+- Use [markdownlint](https://github.com/DavidAnson/markdownlint/tree/main) to prevent formatting inconsistencies.
+- A `.markdownlint.json` file is included to customize these rules:
+  - MD003 Always use ATX-style headings (`####`).
+  - MD013 Line length linting rules are ignored.
+  - MD041 Initial heading rules are ignored. Some files lack an initial heading and just have content of "None". Files that do have content should start with a level 4 heading (`####`). Level 4 is used since this content is imported into Match Play Events with additional headers above it.
 
 ## What is OPDB?
 
 From <https://opdb.org/about>
 >Every machine in the database is assigned a unique identifier. This OPDB ID is designed to convey as much information as possible in the ID itself. Each OPDB ID is made up of three parts: A mandatory group identifier followed by an optional machine identifier and an optional alias identifier. A sample OPDB ID looks like: `G43W4-MrRpw-A1B7O`:
 
-* `G43W4` identifies that this machine belongs to the AC/DC group of machines. The group identifier always begins with G.
-* `MrRpw` identifies that this machine is an AC/DC LE machine. The machine identifier always begins with M.
-* `A1B7O` identifies that this machines is the Back in Black variant of the AC/DC LE machine. The alias identifier always begins with an A.
-* Assigning each machine an ID consisting of these separate parts it's possible to see the relationship between machines just by examining their OPDB IDs.
+- `G43W4` identifies that this machine belongs to the AC/DC group of machines. The group identifier always begins with G.
+- `MrRpw` identifies that this machine is an AC/DC LE machine. The machine identifier always begins with M.
+- `A1B7O` identifies that this machines is the Back in Black variant of the AC/DC LE machine. The alias identifier always begins with an A.
+- Assigning each machine an ID consisting of these separate parts it's possible to see the relationship between machines just by examining their OPDB IDs.
 
 ## Why we are using OPDB Groups, as opposed to Machines
 
-* It will be easier to maintain broader notes that apply to the entire group of machines, as opposed to maintaining repeated information across the same machines
-* Notes about specific machines can be logged at a `Group` level
-* Differences between machines regarding tournament conditions can be more easily noted and compared at the `Group` level
+- It will be easier to maintain broader notes that apply to the entire group of machines, as opposed to maintaining repeated information across the same machines
+- Notes about specific machines can be logged at a `Group` level
+- Differences between machines regarding tournament conditions can be more easily noted and compared at the `Group` level
 
 ## Acknowledgements
 
-* Initialization of the notes are courtesy of data pulls from:
-  * PAPA/ReplayFX Competition Notes -> <https://replayfoundation.org/papa/learning-center/director-guide/game-notes/>
-  * Dave Stewart's WA Pinball .docx Repo -> <http://wapinball.net/setups/>
+- Initialization of the notes are courtesy of data pulls from:
+  - PAPA/ReplayFX Competition Notes -> <https://replayfoundation.org/papa/learning-center/director-guide/game-notes/>
+  - Dave Stewart's WA Pinball .docx Repo -> <http://wapinball.net/setups/>

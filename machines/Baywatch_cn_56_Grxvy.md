@@ -15,3 +15,7 @@ Tournament mode info
 - Do Tournament mode 1st as this resets many settings
 
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and others
+
+#### Custom ROM
+
+- A v4.02 ROM is available that balances scoring, fixes bugs, and introduces a new Variety Award skill shot

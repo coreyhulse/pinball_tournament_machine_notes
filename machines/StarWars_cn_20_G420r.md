@@ -1,4 +1,10 @@
-This is the Data East version.
+#### Game Version
+
+- This is the version by Data East, 1992
+
+#### Custom ROM
+
+- A v1.07 ROM is available that changes scoring, skill shot, and the timing of various sequences.
 
 #### Tech Notes
 
@@ -7,8 +13,6 @@ If Star Wars must be used, align the right flipper so that repeating the ramp on
 #### Concerns
 
 Star Wars is an extremely long playing game in a competitive environment. The center ramp is easily repeatable, awards large amounts of points, and spots Force awards which are also worth significant points. For these reasons, Star Wars is a poor competitive choice when using factory code. New code has been written that addresses some of these issues, but it is currently untested in competition. Greedo deserved it.
-
-### Star Wars (Data East)
 
 #### Physical Setup
 

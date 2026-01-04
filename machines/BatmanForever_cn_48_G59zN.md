@@ -9,3 +9,7 @@ Tournament mode info
 - Expo or PAPA (sets free play, match off, replay off, high score off)
 - IFPA (sets coin play default pricing, match off, replay off, high score off)
 - Do Tournament mode 1st as this resets many settings
+
+#### Custom ROM
+
+- A v5.01 ROM is available that balances scoring and fixes bugs
