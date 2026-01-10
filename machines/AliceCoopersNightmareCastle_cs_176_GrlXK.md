@@ -1,1 +1,1 @@
-None
+one player only as the game gives points to other players with it's Hard Lock Stealing rules
