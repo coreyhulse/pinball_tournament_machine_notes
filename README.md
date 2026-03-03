@@ -6,9 +6,15 @@
 
 ## About
 
-- The goal of this repository is to collect pinball machine settings information that would be ideal for tournament directors
-- Data collected here will be ported and integrated into <https://opdb.org>, a public repository of pinball machine information
-- Notes are being compiled by OPDB Machine Group
+- The goal of this repository is to collect pinball machine settings information that would be ideal for tournament directors.
+- Data collected here has been integrated into the "Pintips / OPDB" section of Match Play Events ([example](https://app.matchplay.events/opdb/entries/GRbPY-MBR24/notes)). OPDB is a public repository of pinball machine information.
+- Notes are being compiled by OPDB Machine Group.
+
+## Simple contributions
+
+You can [open an Issue](https://github.com/coreyhulse/pinball_tournament_machine_notes/issues/new?template=machine-updates.md) with the information you want to see added. We'll handle updating the correct files and copying the information into Match Play Events.
+
+Alternatively, you can follow the workflow below to contribute a PR to this repo.
 
 ## Initialization
 
@@ -54,7 +60,7 @@ File names will consist of four parts in the following format: `machinename_code
 ## What is OPDB?
 
 From <https://opdb.org/about>
->Every machine in the database is assigned a unique identifier. This OPDB ID is designed to convey as much information as possible in the ID itself. Each OPDB ID is made up of three parts: A mandatory group identifier followed by an optional machine identifier and an optional alias identifier. A sample OPDB ID looks like: `G43W4-MrRpw-A1B7O`:
+> Every machine in the database is assigned a unique identifier. This OPDB ID is designed to convey as much information as possible in the ID itself. Each OPDB ID is made up of three parts: A mandatory group identifier followed by an optional machine identifier and an optional alias identifier. A sample OPDB ID looks like: `G43W4-MrRpw-A1B7O`:
 
 - `G43W4` identifies that this machine belongs to the AC/DC group of machines. The group identifier always begins with G.
 - `MrRpw` identifies that this machine is an AC/DC LE machine. The machine identifier always begins with M.
