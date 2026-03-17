@@ -1,4 +1,5 @@
 Drop Targets should reset with 56k/112k light spotted when completing the DELUXE Stand Ups. Switch 23 = off 8-ball Saucer should collect bonus with lit multiplier. Switch 16 = on
+use Romset that fixes the bonus bug or play players 1 and 3 only
 
 #### Switch or Software Setup
 
