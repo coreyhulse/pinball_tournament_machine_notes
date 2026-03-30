@@ -18,6 +18,7 @@
 
 #### Feature Adjustments
 
-- A2.32 Disable Draw Bridge
+- A2.31 Disable Drawbridge
+  - It's possible to increase difficulty by using this setting in conjunction with T.18 (Drawbridge Test). For a more difficult setup first go to T.18 and lower the drawbridge, then go to A2.31 and set Disable Drawbridge to Yes. When the drawbridge is down and disabled more shots to the castle gate will ricochet back to the flippers out of control rather than the first few shots falling into the moat and feeding out of the left orbit more safely towards the flipper.
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
