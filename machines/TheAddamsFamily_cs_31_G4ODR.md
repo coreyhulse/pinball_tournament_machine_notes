@@ -1,3 +1,7 @@
+#### ROMS
+
+DO NOT USE THE GOLD ROMS they add a lot of random stuff you can't turn off
+
 #### Software Setup - Utilities
 
 - U9.03 Install Hard.
@@ -11,8 +15,13 @@
 - A2.23 Quick Multiball Memory YES
 - A3-17: Free Play: YES (If using free play)
 
+#### Adjustments added in L-5C (companion rom)
+
+- A2.29 The Power: DISABLE or SOM-SW 2S
+
+
 #### Posted Notes
 
-- None
+- NO Power if disabled or power setting if using companion rom
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
