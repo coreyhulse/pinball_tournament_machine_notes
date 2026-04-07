@@ -1,6 +1,7 @@
-## cap jackpot range
-if you don't have the competition mod the competition mod lets set min and max to the same
+#### Feature Adjustments
 
-JACKPOT ADVANCE ad 33 1,000
-JACKPOT MINIMUM ad 37 1,000,000
-JACKPOT MAXIMUM ad 38 1,500,000
+- Constrain the jackpot range
+  - A2.33 - Jackpot Advance: 1,000
+  - A2.37 - Jackpot Minimum: 1,000,000
+  - A2.37 - Jackpot Maximum: 1,500,000
+  - Alternatively, using the competition ROM allows you to set the minimum and maximum to the same value.

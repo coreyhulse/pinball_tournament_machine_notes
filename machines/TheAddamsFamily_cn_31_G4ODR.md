@@ -4,15 +4,17 @@ The difficulty of Addams Family is primarily determined by the consistency of th
 
 #### Concerns
 
-Thing Flips will need to be dialed in after any moving or leveling of the game. The locking mechanism can prevent players from earning skillshots in multiplayer games, which can create a competitive imbalance between the players involved. Players frequently 'time out' the Power magnets in competitive play, causing severe slowdowns; consider disabling these magnets while informing the players of the change.
-The completion rom add settings to reduce time out time and disable power.
-DO NOT USE GOLD ROMS they add lots of random stuff you can't turn off.
+Thing Flips will need to be dialed in after any moving or leveling of the game.
+
+The locking mechanism can prevent players from earning skillshots in multiplayer games, which can create a competitive imbalance between the players involved. Players frequently 'time out' The Power magnets in competitive play, causing severe slowdowns; consider disabling these magnets while informing the players of the change. This can be done by disconnecting the magnet or by using a competition ROM that includes a setting to reduce the time out time an disable The Power.
+
+Do not use the GOLD ROMs since they add substantially more random game features that can't be disabled, increasing the variance in the game results.
 
 #### Physical Setup
 
 - Level Machine, slightly steeper than factory recommendation
 - Outlane Posts on "Hard Settings". I.e. most open.
-- Disable power if not using completion rom (as players will just trap and time it out)
+- Disable The Power magnet by disconnecting it if not using completion ROM (as players will just trap and time it out)
 - Ear Plug Tilt Hack
 - Verify Tilt Sensitivity -- should be sensitive, but only one danger with each hard bump
 - Verify no flipper disable when coin door opened. Fix if needed.

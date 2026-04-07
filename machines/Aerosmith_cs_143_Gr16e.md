@@ -1,25 +1,10 @@
 #### Standard adjustments
 
-- Competition mode - On
+- #52 Competition Mode: YES
 
 #### Feature adjustments
 
-- Virtual Lock # 27 - Yes
-
-
-## Virtual lock (toybox) is needed to stop issues like
-
-a missed lock ball not making it in may not count as an lock
-ball searching dumping all locked balls into play that the game may or may not mark as in play.
-uneven play some players get a safe action while others can get a hard fire into the closed box that can go slamming down SDTM
-Players can do Very Soft Lock Stealing and play MB with more balls than they locked (do not get the added scoring from locking more balls)
-Missed balls can also end getting stuck into the ramp.
-
-## Optional
-
-lower right eject power
-when in virtual lock it the toy box will not open and at full power the can slam into give a little to much danger or getting stuck into the ramp.
-
-a power setting of 135 may work good on your setup without making it to easy.
-
-Feature setting 10 is the right eject power
+- #10 Right Eject Power: 135 (TD choice)
+  - Consider making this change if you are also turning on virtual locks (see next note). You may also want to reduce the Right Eject Power feature adjustment so that balls launching towards the closed toybox don't risk getting stuck by the ramp return on the left side of the playfield. A power setting of 135 may work well without making it too easy.
+- #27 Virtual Lock: YES
+  - Turning on virtual locks will mean that locked balls are not catapulted into the toybox mech. This helps to balance the difficulty level across players so that all players deal with the same kind of kickout after locking a ball. Additionally, balls locked in the toybox can be dumped onto the playfield during a ball search. With balls locked in the toybox a player starting a multiball may get more balls in play than expected since balls locked by other players will be pushed onto the playfield. In general, virtual locks prevent a lot of issues with balance and reduces the risk of the game losing the count of the number of balls in play.

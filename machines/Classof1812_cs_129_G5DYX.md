@@ -1,2 +1,4 @@
-turn Catch-Up off
-game mode novelty disables EB's
+#### Software Settings
+
+- Catch-Up: OFF
+- Game Mode: Novelty (will disable extra balls)
