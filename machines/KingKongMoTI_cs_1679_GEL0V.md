@@ -6,6 +6,7 @@
 
 - Enable Virtual Locks
   - This is especially important for the Premium/LE where it may be possible to lock two balls and then shake the game causing the trough to lose count of the balls in play and start the multiball
+  - Go to Adjustments -> Machine Settings -> Devices -> Train Disabled -> Yes
   
 - Consider disabling the gong lock on Premium/LE
   - Make sure you have 48V active
