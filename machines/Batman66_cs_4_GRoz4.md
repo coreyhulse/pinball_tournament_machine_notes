@@ -21,7 +21,7 @@
 - #63 Lost ball recovery: NO
 - #64 Coin door disable tilt: YES
 
-#### Feature Adjustments
+#### Feature adjustments
 
 - Reduce multiball ball save times to 5 seconds
 - Set MB Start to Hard for first MB (one lock lit at a time)

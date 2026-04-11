@@ -1,6 +1,6 @@
 #### Physical setup
 
-- Level machine, per factory recommendation
+- Level machine (No angle specified in manual)
 - Ear plug tilt hack
 - Verify tilt sensitivity
 - Check flipper strength, consider glo balls if the game playing too slow or can't hit upper playfield

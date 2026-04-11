@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Factory default settings generally should be fine, since the game plays quickly.
 

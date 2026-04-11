@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Remove legs, bolts, fold down the head, and wheel it back to the truck.
 

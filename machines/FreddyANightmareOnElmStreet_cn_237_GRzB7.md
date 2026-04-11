@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 If the interlock switch on the coin door is not disabled, opening this era of Gottlieb games to retrieve a stuck ball will cause them to reset
 

@@ -1,8 +1,8 @@
-#### Physical Setup
+#### Physical setup
 
 - Level machine
 - Outlane posts in the most open position
-- Verify Tilt Sensitivity
+- Verify tilt sensitivity
 - Verify coin door ball save or no flipper disable when coin door opened
 - Check flipper strength
 

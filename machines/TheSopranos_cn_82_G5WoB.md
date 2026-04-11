@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Consider adding a red plunger spring to potentially reduce the valid switch exploit. Increase slingshot sensitivity to reduce long ball times.
 

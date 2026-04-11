@@ -1,7 +1,7 @@
 #### Physical setup
 
 - Level machine per factory recommendation
-- Outlane Posts on Medium settings
+- Outlane posts on Medium settings
 - Ear plug tilt hack
 - Verify tilt sensitivity
 - Verify no flipper disable when coin door opened

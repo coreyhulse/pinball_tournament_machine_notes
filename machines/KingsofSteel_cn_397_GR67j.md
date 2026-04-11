@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 If Kings of Right Target must be used, disconnect the standup on the far right side of the playfield and put a note on the backglass explaining the change to players.
 

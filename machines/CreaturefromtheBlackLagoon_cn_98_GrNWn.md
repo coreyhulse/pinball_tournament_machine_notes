@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 This game should be set up without rubbers on the outlanes, which is how it shipped from the factory. The tilt should be set loose enough to allow for nudging, but it shouldn't be so loose that players can overwork the whirlpool and receive endless letters. Four letters for each trip to the whirlpool is reasonable, with some falling short at three and some attaining five.
 
@@ -8,14 +8,14 @@ Creature is a relatively poor game for competition because the random awards can
 
 #### Physical setup
 
-- Level Machine: factory recommended steepness
-- Outlane Posts on "Medium Settings". I.e. MIDDLE position
-- Ear Plug Tilt Hack
-- Verify Tilt Sensitivity -- should be sensitive, but only one danger with each hard bump
+- Level machine: factory recommended steepness
+- Outlane posts on "Medium Settings". I.e. MIDDLE position
+- Ear plug tilt hack
+- Verify tilt sensitivity. Should be sensitive, but only one danger with each hard bump
 - Verify no flipper disable when coin door opened. Fix if needed.
-- Check Flipper Strength, especially left ramp during multiball
+- Check flipper strength, especially left ramp during multiball
 - Clean Playfield if necessary
 - Clean Glass
-- Verify Volume
+- Verify volume
 
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and [WA Pinball Machine Notes](http://wapinball.net/setups/)

@@ -1,8 +1,8 @@
-#### Physical Setup
+#### Physical setup
 
-- Level Machine
+- Level machine
 - Verify Tilt Sensitivity
-- Check Flipper Strength
+- Check flipper strength
 - Clean Playfield if necessary
 - Clean Glass
 

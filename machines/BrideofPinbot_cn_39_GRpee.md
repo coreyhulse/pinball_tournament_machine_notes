@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Software settings can be used to lower the percentages of the billion point award as well as the jackpot on the small wheel. A second tactic would be to raise the billion point shot to its highest frequency.
 

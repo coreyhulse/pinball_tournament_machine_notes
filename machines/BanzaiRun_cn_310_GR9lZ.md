@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Be sure all of the flippers are in solid, working order prior to the competition. In addition to checking all switches, take special care to ensure all captive balls and standups, including within the backbox, register correctly.
 

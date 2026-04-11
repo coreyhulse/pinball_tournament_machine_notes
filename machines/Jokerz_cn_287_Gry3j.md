@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 The ramp shots are critical during the "double your score" mode. Be sure the flippers are strong enough to make both easy.
 

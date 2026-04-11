@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Consider installing one-way switches on the inlanes to help prevent players from repeatedly shooting the inlanes
 

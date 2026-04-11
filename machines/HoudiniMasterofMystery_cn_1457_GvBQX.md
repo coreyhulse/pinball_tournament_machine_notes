@@ -1,12 +1,12 @@
-## Physical Setup
+## Physical setup
 
-- Level Machine -- about 1% steeper than factory recommendation
-- Outlane Posts on "Hard Settings". I.e. most open.
+- Level machine -- about 1% steeper than factory recommendation
+- Outlane posts on "Hard Settings". I.e. most open.
 - Remove rubber from movable outlane posts, but leave on post between inlane/outlane
 - Ear plug tilt hack
 - Verify tilt sensitivity
 - Check coin door ball save
-- Check Flipper Strength
+- Check flipper strength
 - Check coil strengths, adjust if necessary (fully adjustable in settings)
 - Clean/wax playfield
 - Clean glass

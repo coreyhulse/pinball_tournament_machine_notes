@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Directors are encouraged to widen the outlanes and make the slingshots sensitive. Be certain the plunge goes all the way around the orbit to the left flipper.
 
@@ -6,7 +6,7 @@ Directors are encouraged to widen the outlanes and make the slingshots sensitive
 
 Fish Tales is a decent competitive game with multiple strategies, but if it's set up too easily, the Super Jackpot scoring can ruin the balance of the game. Fish Tales is more acceptable in a tournament's final rounds, or in an event where players receive few attempts on the game, as opposed to being used in qualifying for an event where players can play repeatedly and learn the angles and rebounds. As players' familiarity with the specific Fish Tales machine grows, the scoring imbalance with the Super Jackpots becomes more of a potential problem.
 
-#### Physical Setup
+#### Physical setup
 
 - Level machine
 - Outlane posts most open setting

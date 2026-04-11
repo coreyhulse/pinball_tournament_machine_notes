@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 BOZO letters should reset between players. Make short plunging as difficult as possible by using a harder spring, or by tightening the slingshots.
 

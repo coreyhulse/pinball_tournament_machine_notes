@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Demolition Man is prone to having clean ramps shots spin or 'moonwalk' backward out of the inlane into the outlane, ending the player's ball. This type of behavior can be avoided by laying thin strips of mylar on the ramp (or inlane if necessary) to alter the spin of the ball. A properly setup Demolition Man should never have balls moonwalk out of the inlane no matter how clean the playfield is.
 
@@ -8,14 +8,14 @@ On standard settings, tournament players tend to repeatedly play multiball, choo
 
 #### Physical setup
 
-- Level Machine
-- Outlane Posts on "Hard Settings". I.e. most open.
+- Level machine
+- Outlane posts on "Hard Settings". I.e. most open.
 - Verify Tilt Sensitivity
-- Ear Plug Tilt Hack (see photo)
-- Verify Volume
+- Ear plug tilt hack (see photo)
+- Verify volume
 - Verify coin door ball save or no flipper disable when coin door opened.
 - Clean Playfield if necessary
 - Clean Glass
-- Check Flipper Strength
+- Check flipper strength
 
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and [WA Pinball Machine Notes](http://wapinball.net/setups/)
