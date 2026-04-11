@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Be certain the flippers are capable of completing the captive ball.
 

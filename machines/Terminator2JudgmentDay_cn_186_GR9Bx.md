@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Directors are encouraged to leave the center post in Terminator 2. Difficulty should be adjusted by widening outlanes and adjusting sling sensitivity.
 

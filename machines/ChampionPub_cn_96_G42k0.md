@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 If the tilt and boxer mechanism are both too loose, players can shake the machine to score hits on the boxer and win bouts. If the flippers are aligned correctly, the jab ramps should both be makeable depending upon which side of the up-post the ball is resting.
 

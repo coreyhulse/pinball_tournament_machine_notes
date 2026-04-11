@@ -1,7 +1,7 @@
 #### Physical setup
 
 - Level machine at slightly steeper than factory recommendation
-- Outlane Posts most open setting
+- Outlane posts most open setting
 - Ear plug tilt hack
 - Verify tilt sensitivity
 - Check coin door ball save

@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Be sure the upper right flipper can easily complete the upper play field
 

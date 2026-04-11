@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Do not set multiball difficulty to harder than factory. This will further encourage players to use the left lane strategy.
 

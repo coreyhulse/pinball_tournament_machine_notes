@@ -1,14 +1,14 @@
-#### Physical Setup
+#### Physical setup
 
-- Level Machine -- about 1 % steeper than factory recommendation
-- Outlane Posts on "Hard Settings". I.e. most open.
+- Level machine -- about 1 % steeper than factory recommendation
+- Outlane posts on "Hard Settings". I.e. most open.
 - Adjust slingshots to be extra sensitive
-- Ear Plug Tilt Hack
-- Verify Tilt Sensitivity -- should be sensitive, but only one danger with each hard bump
-- Check Flipper Strength (after #43 setting below)
+- Ear plug tilt hack
+- Verify tilt sensitivity. Should be sensitive, but only one danger with each hard bump
+- Check flipper strength (after #43 setting below)
 - Clean playfield if necessary
 - Clean glass
-- Verify Volume
+- Verify volume
 - Verify Demon doesn't kick ball down the middle.
 - Should lightning flippers
 

@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 The difficulty of a Taxi is closely related to how difficult the left ramp is to shoot successfully. If a clean shot from a cradle on the right flipper only barely makes it around the ramp, the flippers will not be strong enough for any tournament that requires qualifying on the machine. Directors are encouraged to be proactive and doublecheck and/or rebuild the flipper mechs on this game prior to the tournament to ensure the left ramp can be completed consistently.
 

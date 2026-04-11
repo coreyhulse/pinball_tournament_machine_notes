@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Be certain the STEPS plunger is aligned correctly and does not rattle the ball off of the inlane opening. Check that the trap door does not cause a clean shot to airball over the switch.
 
@@ -10,8 +10,8 @@ The gears in Rudy's head are very difficult to replace quickly, and one of them 
 
 #### Physical setup
 
-- Level Machine
-- Outlane Posts on "Hard Settings". I.e. most open.
+- Level machine
+- Outlane posts on "Hard Settings". I.e. most open.
 - Verify Tilt Sensitivity
 - Verify coin door ball save or no flipper disable when coin door opened
 

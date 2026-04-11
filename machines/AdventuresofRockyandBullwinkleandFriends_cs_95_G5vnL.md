@@ -6,7 +6,7 @@
 - IFPA (sets coin play default pricing, match off, replay off, high score off)
 - Set Tournament mode first as this resets many settings
 
-Standard Adjustments:
+Standard adjustments:
 
 - Special award: Points
 - A-4, A-6 Extra Ball Limit: No extra balls
