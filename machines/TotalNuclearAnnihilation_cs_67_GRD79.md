@@ -8,6 +8,6 @@
 
 #### Posted Notes
 
-- TBD
+- one player only (IF you don't want lock stealing)
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

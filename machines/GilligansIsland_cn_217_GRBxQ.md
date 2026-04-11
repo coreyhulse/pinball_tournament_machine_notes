@@ -1,1 +1,1 @@
-None
+gift from the gods kickback gives points to other players play as one player or disable switch
