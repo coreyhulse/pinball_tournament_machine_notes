@@ -17,12 +17,10 @@ This is the Stern 2017 version.
 - #48 Ball Save Time: 3
 - #49 Timed Plunger OFF
 - #50 Flipper Ball Launch OFF
-- #51 Coin Door Ball Saver: YES
 - #52 Competition Mode: YES
 - #53 Consolation Ball: NO
 - #57 Player Competition: NO
 - #63 Lost Ball Recovery: NO
-- #64 Coin Door Disable Tilt: YES
 
 #### Feature Adjustments
 
