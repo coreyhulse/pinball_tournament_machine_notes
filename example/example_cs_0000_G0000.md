@@ -2,12 +2,12 @@
 
 |Switch/Adj|Name|Setting|Notes|
 |-|-|-|-|-|
-|Self Test XX and YY|Setting Name|Setting Value|Additional Notes|
-|SW A|Setting Name|Setting Name|Setting Value|Additional Notes|
-|SW B|C/D Rollover|Setting Name|Setting Value|Additional Notes|
+|Self Test XX and YY|Setting name|Setting value|Additional notes|
+|SW A|Setting name|Setting name|Setting value|Additional notes|
+|SW B|C/D Rollover|Setting name|Setting value|Additional notes|
 
-#### Software Settings (Bullets)
+#### Software settings (Bullets)
 
-- Self Test XX and YY - Setting Value - Notes
-- SW A - Setting Value
-- SW B - Setting Value
+- Self Test XX and YY - Setting value - Notes
+- SW A - Setting value
+- SW B - Setting value

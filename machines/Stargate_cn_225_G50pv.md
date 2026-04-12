@@ -1,8 +1,8 @@
-#### Physical Setup
+#### Physical setup
 
-- Level Machine
+- Level machine
 - Verify Tilt Sensitivity
 - Verify coin door ball save or no flipper disable when coin door opened.
-- Check Flipper Strength
+- Check flipper strength
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

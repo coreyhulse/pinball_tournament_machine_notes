@@ -1,4 +1,4 @@
-#### Physical Setup
+#### Physical setup
 
 - Level machine per factory recommendation
 - Outlane posts on medium

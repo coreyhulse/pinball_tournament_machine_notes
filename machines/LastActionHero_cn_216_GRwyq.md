@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Adjustment 41 set to OFF disables the shaker motor
 

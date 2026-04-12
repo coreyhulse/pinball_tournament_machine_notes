@@ -1,13 +1,13 @@
-#### Physical Setup
+#### Physical setup
 
-- Verify Machine Level Machine
+- Verify Machine Level machine
 - Monger has sometimes had a flaky switch, check for proper operation
-- Outlane Posts on "Hard Settings". I.e. most open.
+- Outlane posts on "Hard Settings". I.e. most open.
 - Make slingshots sensitive
-- Install Ear Plug Tilt Hack
-- Verify Tilt Sensitivity -- should be sensitive, but only one danger with each hard bump
+- Install Ear plug tilt hack
+- Verify tilt sensitivity. Should be sensitive, but only one danger with each hard bump
 - Check coin door ball save.
-- Check Flipper Strength
+- Check flipper strength
 - Clean/wax playfield if necessary
 
 #### Install Menu

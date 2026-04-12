@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 This game contains lock stealing between players. Due to the unusually difficult ball-lock procedure, we recommend this game is only used in single-player scenarios. Outside of using custom roms, if they are available, no major modifications need to be made to Radical in a competitive environment.
 

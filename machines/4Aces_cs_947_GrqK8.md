@@ -1,6 +1,4 @@
 #### Switch setup
 
-- 5-Ball Play
+- 5-Ball play (Set by turn-switch)
 - Extra balls off
-
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

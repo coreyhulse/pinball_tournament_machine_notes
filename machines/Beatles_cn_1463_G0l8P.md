@@ -1,6 +1,6 @@
 #### Physical setup
 
-- Level Machine
+- Level machine
 - Outlane posts at most open setting
 - Make slingshots sensitive
 - Ear plug tilt hack

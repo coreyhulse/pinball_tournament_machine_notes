@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 The Optimus Prime target has a tendency to not work correctly. Ensure it is working well prior to competition. Also, make sure autoplunged balls end up in the jets and not in the super-skillshot lane. If the autoplunge does not feed the pop bumpers at the start of multiball, the player cannot light jackpots until all balls have been kicked out.
 

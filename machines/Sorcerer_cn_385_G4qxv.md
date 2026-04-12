@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Directors are encouraged to install a yellow post on the lock-ramp and remove the outlane rubbers.
 
