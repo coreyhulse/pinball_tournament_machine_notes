@@ -1,1 +1,3 @@
-AD 39 MATCH (turns off gifts)
+#### Software Setup
+
+- Ad 39 MATCH (turns off gifts)

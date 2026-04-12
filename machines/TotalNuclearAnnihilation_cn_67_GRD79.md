@@ -1,3 +1,8 @@
+#### Concerns
+
+- Can be played as a single-player game to avoid the cross-player interactions due to lock stealing. But this is a TD choice and the game was developed with lock stealing as a substantial component of the player interaction.
+- Software version v1.6.0 was released in December 2025 and substantially changes the scoring rules in a way that is intended to improve tournament play. Install the latest code if possible.
+
 #### Physical setup
 
 - Level machine, per factory recommendation

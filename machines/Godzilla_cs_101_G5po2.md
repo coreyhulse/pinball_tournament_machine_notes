@@ -2,9 +2,8 @@
 
 #### Software Setup
 
-- #6 Install HARD (TD CHOICE)
+- #6 Install HARD (TD choice)
 - #44 PAPA Tournament Style (Sets free play and novelty)
-
 
 #### Standard Adjustments after Software Setup
 

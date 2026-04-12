@@ -6,8 +6,4 @@
 - Gameplay (Feature): Extra Ball 2 Reactor: 0
 - Gameplay (Feature): Reactor Difficulty: Easy
 
-#### Posted Notes
-
-- one player only (IF you don't want lock stealing)
-
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
