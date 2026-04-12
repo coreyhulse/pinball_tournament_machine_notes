@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Be sure the upper right flipper is strong enough to make the ramp consistently.
 

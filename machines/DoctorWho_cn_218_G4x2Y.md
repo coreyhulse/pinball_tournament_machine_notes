@@ -4,16 +4,16 @@ The video mode can potentially be a safe way to earn lots of points in Doctor Wh
 
 #### Physical setup
 
-- Level Machine -- about factory recommendation
-- Outlane Posts on "Hard Settings". I.e. most open.
+- Level machine -- about factory recommendation
+- Outlane posts on "Hard Settings". I.e. most open.
 - Adjust slingshots to be extra sensitive
-- Ear Plug Tilt Hack
-- Verify Tilt Sensitivity -- should be sensitive, but only one danger with each hard bump
+- Ear plug tilt hack
+- Verify tilt sensitivity. Should be sensitive, but only one danger with each hard bump
 - Disable coin-door switch that kills flippers, if necessary
-- Check Flipper Strength
+- Check flipper strength
 - Clean playfield if necessary
 - Clean glass
-- Verify Volume
+- Verify volume
 - If possible, adjust return to upper left flipper to make looping ramp a more difficult shot than usual.
 
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and [WA Pinball Machine Notes](http://wapinball.net/setups/)

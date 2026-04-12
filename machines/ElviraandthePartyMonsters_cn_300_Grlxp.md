@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 Director's are encouraged the keep the pitch of this game at or near factory recommendations (7 degrees)
 
@@ -8,15 +8,15 @@ Locks can be stolen between players in a multiplayer match. Also, the flippers w
 
 #### Physical setup
 
-- Level Machine
-- Outlane Posts on "Hard Settings". I.e. most open.
+- Level machine
+- Outlane posts on "Hard Settings". I.e. most open.
 - Verify Tilt Sensitivity
-- Ear Plug Tilt Hack (see photo)
-- Verify Volume
+- Ear plug tilt hack (see photo)
+- Verify volume
 - Verify coin door ball save or no flipper disable when coin door opened.
 - Clean Playfield if necessary
 - Clean Glass
-- Check Flipper Strength
+- Check flipper strength
 - Remove 1 ball, Install 2 balls only. Helps to balance lock stealing.
 
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and [WA Pinball Machine Notes](http://wapinball.net/setups/)

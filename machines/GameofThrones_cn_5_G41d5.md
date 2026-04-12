@@ -1,12 +1,12 @@
-#### Physical Setup
+#### Physical setup
 
-- Verify Machine Level Machine
-- Outlane Posts on "Hard Settings". I.e. most open.
+- Verify Machine Level machine
+- Outlane posts on "Hard Settings". I.e. most open.
 - Make slingshots sensitive
-- Install Ear Plug Tilt Hack
-- Verify Tilt Sensitivity -- should be sensitive, but only one danger with each hard bump
+- Install Ear plug tilt hack
+- Verify tilt sensitivity. Should be sensitive, but only one danger with each hard bump
 - Check coin door ball save.
-- Check Flipper Strength (adjust #43 setting below if needed)
+- Check flipper strength (adjust #43 setting below if needed)
 - Clean/wax playfield if necessary
 - Clean glass
 

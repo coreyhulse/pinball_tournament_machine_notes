@@ -13,5 +13,6 @@
 - A2.34 Sink Ship Letters Difficulty: Hard (alternating ramps light letter in 2-ball; left or right ramps light letter in 3-ball)
 - A2.35 Video Mode Flippers: OFF (players must use the lockdown bar button; ensure it works first)
 - A3.17: Free Play: ON
-
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
+- Starting cannon level 2 - disable double broadside. Unbalanced award # TODO: Find setting
+- Sink ship start at 0 # TODO: Find setting
+- Make locker ramp value reset between multiballs # TODO: Find setting

@@ -1,9 +1,9 @@
-#### Physical Setup
+#### Physical setup
 
-- Level Machine, per factory recommendation
-- Ear Plug Tilt Hack
-- Verify Tilt Sensitivity -- should be sensitive, but only one danger with each hard bump
-- Check Flipper Strength, Consider Glo Balls if playing too slow or can't hit upper playfield
+- Level machine, per factory recommendation
+- Ear plug tilt hack
+- Verify tilt sensitivity. Should be sensitive, but only one danger with each hard bump
+- Check flipper strength, Consider Glo Balls if playing too slow or can't hit upper playfield
 - Clean Playfield if necessary
 - Clean Glass
 

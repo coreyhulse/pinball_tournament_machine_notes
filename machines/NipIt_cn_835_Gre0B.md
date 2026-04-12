@@ -1,9 +1,9 @@
-#### Physical Setup
+#### Physical setup
 
-- Level Machine, per factory recommendation
-- Ear Plug Tilt Hack if it makes sense
-- Verify Tilt Sensitivity -- should be sensitive, tilt with each hard bump
-- Check Flipper Strength, ensure ball can easily go to top of playfield. Consider Glo Balls.
+- Level machine, per factory recommendation
+- Ear plug tilt hack if it makes sense
+- Verify tilt sensitivity. Should be sensitive, tilt with each hard bump
+- Check flipper strength, ensure ball can easily go to top of playfield. Consider Glo Balls.
 - Verify balligator works as intended
 - Clean Playfield if necessary
 - Clean Glass

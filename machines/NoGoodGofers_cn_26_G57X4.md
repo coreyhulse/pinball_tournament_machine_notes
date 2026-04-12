@@ -1,4 +1,4 @@
-#### Tech Notes
+#### Tech notes
 
 A full plunge from the shooter lane should send the ball up the side ramp.
 
