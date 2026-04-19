@@ -1,3 +1,7 @@
+#### Concerns
+
+Family Guy gives the player a Lard Multiball on ball three if they haven't played any multiballs on ball one and two. This cannot be disabled.
+
 #### Physical setup
 
 - Level machine
