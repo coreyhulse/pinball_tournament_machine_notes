@@ -2,7 +2,6 @@
 
 Use the fixed romset to address the issue where players 2 and 4 get extra bonus due to the 8 ball being counted twice. If this ROM is not installed then play as players 1 and 3 only.
 
-
 Drop Targets should reset with 56k/112k light spotted when completing the DELUXE Stand Ups. Switch 23 = off 8-ball Saucer should collect bonus with lit multiplier. Switch 16 = on
 
 #### Self-test Positions

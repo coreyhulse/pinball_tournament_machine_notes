@@ -1,6 +1,7 @@
 #### Tech notes
 
-Manage difficulty through outlane posts and slingshot sensitivity. The flipper rubbers on the lower playfield have a tendency to come off or wear out with extended play. Be sure to label the wires or make a mental note as to which wire plugs onto which connector since they appear very similar when reassembling the unit.
+Manage difficulty through outlane posts and slingshot sensitivity.
+The flipper rubbers on the lower playfield have a tendency to come off or wear out with extended play. Make sure to label the wires or make a mental note as to which wire plugs onto which connector since they appear very similar when reassembling the unit.
 
 #### Concerns
 

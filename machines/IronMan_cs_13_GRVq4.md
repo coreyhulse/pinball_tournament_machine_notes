@@ -6,8 +6,8 @@
 
 #### Standard Adjustments, verify or update AFTER "Install"
 
-- #12 Special Limit: NO SPECIALS.
-- #16 Extra Ball Limit: NO EXTRA BALLS.
+- #12 Special Limit: NO SPECIALS
+- #16 Extra Ball Limit: NO EXTRA BALLS
 - #21 Balls per Game: 3
 - #43 Coil Power: HARD (if necessary)
 - #45 Game Restart: NO
@@ -21,6 +21,5 @@
 #### Feature Adjustments
 
 - Reduce Multiball ball save times to 5 seconds, if possible
--
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
