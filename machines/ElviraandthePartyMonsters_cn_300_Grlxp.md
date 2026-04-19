@@ -11,7 +11,7 @@ Locks can be stolen between players in a multiplayer match. Also, the flippers w
 - Level machine
 - Outlane posts on "Hard Settings". I.e. most open.
 - Verify Tilt Sensitivity
-- Ear plug tilt hack (see photo)
+- Ear plug tilt hack
 - Verify volume
 - Verify coin door ball save or no flipper disable when coin door opened.
 - Clean Playfield if necessary

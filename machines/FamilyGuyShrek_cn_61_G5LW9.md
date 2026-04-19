@@ -6,7 +6,7 @@ Family Guy gives the player a Lard Multiball on ball three if they haven't playe
 
 - Level machine
 - Verify Tilt Sensitivity
-- Ear plug tilt hack (see photo)
+- Ear plug tilt hack
 - Verify volume
 - Check flipper strength
 - Clean playfield if necessary
