@@ -1,6 +1,6 @@
 #### Concerns
 
-Family Guy gives the player a Lard Multiball on ball three if they haven't played any multiballs on ball one and two. This cannot be disabled.
+Family Guy gives the player a Lard Multiball on ball three if they haven't played any multiballs on ball one and two. This cannot be disabled. Consider setting the game up to have TV mode lit at start of game to help mitigate.
 
 #### Physical setup
 
