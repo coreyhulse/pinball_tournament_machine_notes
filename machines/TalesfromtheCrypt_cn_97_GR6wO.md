@@ -10,4 +10,4 @@ Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/lear
 
 #### Custom ROM
 
-- A v4.00 ROM is available that changes scoring and includes bug fixes.
+- A v4.00 ROM is available that changes scoring and includes bug fixes

@@ -15,13 +15,13 @@
 
 #### Custom ROMs
 
-Consider installing LX-9 for better tournament gameplay.
+Consider installing LX-9 for better tournament gameplay
 
 ##### LX-9 Standard Adjustments
 
 - A1.03: MAX. E.B. COUNT NO EX. BALL
   - Now defines the maximum number of extra balls a player can earn per game. In earlier versions, it set the number of extra balls that could be held at once.
-- A1.26: Tournament Play YES 
+- A1.26: Tournament Play YES
   - In LX-8, tournament mode now equalizes Launch-A-Probe and Skill-Shot awards: Extra ball and multiball percentages are ignored and replaced by a static list of awards without extra balls. With LX-9 tournament mode also equalizes the encounters in the Neutral Zone by giving each player the same entry point into NZ’s random list. It also disables extra balls in Shuttle Simulation
 - A1.33: SOFT RESET: Never
 - A3.17: Free Play: YES
