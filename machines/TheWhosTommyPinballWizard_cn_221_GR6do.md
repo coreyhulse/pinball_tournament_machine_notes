@@ -4,10 +4,10 @@
 
 #### Physical Setup
 
-- Level Machine
-- Outlane Posts on "Hard Settings". I.e. most open.
+- Level machine
+- Outlane posts on "Hard Settings". I.e. most open
 - Verify Tilt Sensitivity
-- Ear Plug Tilt Hack (see photo)
+- Ear Plug Tilt Hack
 - Verify Volume
 - Verify coin door ball save or no flipper disable when coin door opened
 - Clean Playfield if necessary

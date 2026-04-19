@@ -4,7 +4,7 @@
 - Outlane posts on "Hard Settings". I.e. most open
 - Verify Tilt Sensitivity
 - Verify volume
-- Ear plug tilt hack (see photo)
+- Ear plug tilt hack
 - Check coin door ball save
 - Check flipper strength
 
