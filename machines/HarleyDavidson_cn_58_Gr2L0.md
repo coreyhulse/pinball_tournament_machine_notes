@@ -1,1 +1,1 @@
-This is the Bally Version
+This is the Bally version
