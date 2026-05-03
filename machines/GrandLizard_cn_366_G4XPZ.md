@@ -11,4 +11,6 @@
 - Clean Glass
 - Verify volume
 
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
+#### Concerns
+
+This game is subject to hard lock stealing. Consider playing single-player to mitigate.

@@ -1,5 +1,7 @@
 #### Concerns
 
-Carryover ransom feature and lock stealing diminish this gameï¿½s use in any division. The game also suffers from highly repetitive playing strategies, often causing it to take a long time to finish under tournament conditions.
+This game is subject to hard lock stealing. Consider playing single-player to mitigate.
 
-Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes)
+The game has some highly repetitive playing strategies, often resulting in long playing games.
+
+Due to the nature of the RANSOM letters carrying between games, consider if this game should even be in the tournament.

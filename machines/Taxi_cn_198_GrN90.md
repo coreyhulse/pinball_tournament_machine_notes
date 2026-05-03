@@ -4,6 +4,6 @@ The difficulty of a Taxi is closely related to how difficult the left ramp is to
 
 #### Concerns
 
-Taxi suffers from lock-stealing issues in multiplayer games, though on this particular game the concern for this problem is minimal. The flipper coils on this game will weaken with extended play due to heat.
+This game is subject to hard lock stealing. Consider playing single-player to mitigate. On this particular machine the concern for this problem is minimal.
 
-Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes)
+The flipper coils on this game will weaken with extended play due to heat.
