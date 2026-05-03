@@ -4,6 +4,4 @@ Ensure the flippers are strong enough to easily make all ramp shots, including t
 
 #### Concerns
 
-Fire! contains lock stealing between players
-
-Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes)
+This game is subject to hard lock stealing. Consider playing single-player to mitigate.

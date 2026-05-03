@@ -1,5 +1,5 @@
 #### Concerns
 
-Ensure the saucer kickout is consistent and saveable
+This game is subject to hard lock stealing. Consider playing single-player to mitigate.
 
-Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes)
+Ensure the saucer kickout is consistent and saveable
