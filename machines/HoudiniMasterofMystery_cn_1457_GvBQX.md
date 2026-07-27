@@ -12,11 +12,9 @@
 - Clean glass
 - Verify volume
 
-## Install Menu
+## Presets Menu
 
-- Install 3-Ball
 - Install Hard
-- Install Competition
 
 ## Standard Adjustments, verify or update AFTER "Install"
 
@@ -29,4 +27,4 @@
 
 - Magic Standup Ball Save: OFF
 - Scoop Ball Save: OFF
-- Reduce Multiball ball saves if possible
+- Reduce multiball ball saves if possible
