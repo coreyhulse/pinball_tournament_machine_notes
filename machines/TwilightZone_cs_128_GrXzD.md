@@ -13,12 +13,9 @@
 #### Feature adjustments
 
 - A1-04: Max extra balls per ball in play to 0
-- Take one ball out and set
-- A?-??: Number of balls in Gumball machine: 2 (setting may not be in older ROMs)
+- Take one ball out and set A2.35: BALLS IN GUMBALL: 2
 
 #### Posted notes
 
 - EB off
 - Special is points
-
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/) and others
