@@ -1,6 +1,6 @@
 #### Software settings (Box)
 
-|Switch/Adj|Name|Setting|Notes|
+|Switch/Adjustment|Name|Setting|Notes|
 |-|-|-|-|-|
 |Self Test XX and YY|Setting name|Setting value|Additional notes|
 |SW A|Setting name|Setting name|Setting value|Additional notes|

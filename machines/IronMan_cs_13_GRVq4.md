@@ -21,5 +21,3 @@
 #### Feature Adjustments
 
 - Reduce Multiball ball save times to 5 seconds, if possible
-
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

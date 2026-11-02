@@ -26,5 +26,3 @@
 - #31 Reduce Mustang multiball ball save time to minimum
 - #32 Reduce Upgrade multiball ball save time to minimum
 - #33 Reduce Stampede multiball ball save time to minimum
-
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

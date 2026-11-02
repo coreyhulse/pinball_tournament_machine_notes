@@ -5,3 +5,5 @@ Indy 500 has a software bug that sometimes surfaces when the turbo isn't loading
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes)
 
 This game has an hidden ball saver at ball start and after ball lock (that can't be turned off) best to keep main ball saves on
+
+There appears to be a firmware that fixes most if not all bugs of this game [Described at this page](https://pinballopen.hu/en/i500/)

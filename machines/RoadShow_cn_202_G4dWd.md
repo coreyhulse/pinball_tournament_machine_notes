@@ -5,5 +5,3 @@
 - Verify Tilt Sensitivity
 - Check coin door killing flippers
 - Check flipper strength
-
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

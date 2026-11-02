@@ -4,7 +4,7 @@ Set casino run specials to award 500m. Ensure the kickout from the mode saucer i
 
 #### Concerns
 
-Expert players will attempt to use the valid playfield switch exploit during this game, but aside from lengthening the average game time, this exploit hasn't been shown to cause any major, repeatable imbalance or competitive problem
+Many players will attempt to exploit that short-plunging and not validating the playfield will give them basically unlimited attempts to get the balled controlled to a flipper. Aside from lengthening the average game time, this exploit hasn't been shown to cause any major, repeatable imbalance or competitive problem.
 
 #### Physical setup
 
@@ -17,5 +17,3 @@ Expert players will attempt to use the valid playfield switch exploit during thi
 - Clean Playfield if necessary
 - Clean Glass
 - Verify volume
-
-Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and [WA Pinball Machine Notes](http://wapinball.net/setups/)

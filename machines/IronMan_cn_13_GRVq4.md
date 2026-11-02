@@ -5,7 +5,7 @@ Keep the tilt reasonably loose. The game's design encourages dangerous shots and
 #### Physical setup
 
 - Verify Machine Level machine
-- Monger has sometimes had a flaky switch, check for proper operation
+- Monger sometimes have a flaky switch, check for proper operation
 - Outlane posts on "Hard Settings". I.e. most open.
 - Make slingshots sensitive
 - Install Ear plug tilt hack
@@ -15,5 +15,3 @@ Keep the tilt reasonably loose. The game's design encourages dangerous shots and
 - Clean/wax playfield if necessary
 - Clean glass
 - Verify volume
-
-Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and [WA Pinball Machine Notes](http://wapinball.net/setups/)

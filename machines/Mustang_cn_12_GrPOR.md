@@ -15,5 +15,3 @@
 - Clean Playfield if necessary
 - Clean Glass
 - Verify volume
-
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

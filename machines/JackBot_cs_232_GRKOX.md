@@ -18,6 +18,4 @@ Set casino run specials to award 500m.
 
 #### Posted Notes
 
-- Cheating feature disabled. Ball saver disabled. (TD CHOICE)
-
-Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes) and [WA Pinball Machine Notes](http://wapinball.net/setups/)
+- Cheating feature disabled. Ball saver disabled.

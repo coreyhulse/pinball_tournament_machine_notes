@@ -1,3 +1,7 @@
+#### Game Version
+
+- This is the version by Stern, 2008
+
 #### Physical setup
 
 - Level machine -- Slightly steeper than normal
@@ -9,5 +13,3 @@
 - Clean Playfield if necessary
 - Clean Glass
 - Verify volume
-
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)

@@ -1,4 +1,6 @@
-(This is the Sega version of Godzilla, 1998)
+#### Game Version
+
+- This is the Sega version of Godzilla, 1998
 
 #### Tech notes
 
@@ -8,8 +10,6 @@ The flippers will grow weaker with extended play during long qualifying sessions
 
 Godzilla can be a long-playing game if set too conservatively in a high-caliber event. The option to install lightning flippers is available, but only do so if your tournament involves extended qualifying with top-level players.
 
-Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes)
-
 #### Physical setup
 
 - Level machine, 1% steeper than factory recommendation
@@ -17,9 +17,7 @@ Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/lear
 - Ear plug tilt hack
 - Verify tilt sensitivity. Should be sensitive, but only one danger with each hard bump
 - Verify no flipper disable when coin door opened. Fix if needed.
-- After #37 adjustment, Check flipper strength, verify ramps are hittable with ease from stopped ball
-- Clean Playfield if necessary
-- Clean Glass
+- After #37 adjustment, Check flipper strength, verify ramps are hittable with ease from a cradled ball
+- Clean playfield if you want the game to play faster
+- Clean glass
 - Verify volume
-
-Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
